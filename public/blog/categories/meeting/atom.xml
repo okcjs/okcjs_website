@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[OKC.js]]></title>
-  <link href="http://okcjs.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: meeting | OKC.js]]></title>
+  <link href="http://okcjs.com/blog/categories/meeting/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
   <updated>2012-01-03T10:45:26-06:00</updated>
   <id>http://okcjs.com/</id>
