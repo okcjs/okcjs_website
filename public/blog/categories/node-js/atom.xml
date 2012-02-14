@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: meeting | OKC.js]]></title>
-  <link href="http://okcjs.com/blog/categories/meeting/atom.xml" rel="self"/>
+  <title><![CDATA[Category: node.js | OKC.js]]></title>
+  <link href="http://okcjs.com/blog/categories/node-js/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
   <updated>2012-02-14T17:38:17-06:00</updated>
   <id>http://okcjs.com/</id>
@@ -46,21 +46,6 @@
 <h2>Lunch!</h2>
 
 <p>We learned last month that the same demographic that writes javascript apparently is also the same demographic that can totally vaporize pizza. That or we underestimated just how awesome our turnout would be. In any case we are prepared this February. Tasty lunch will be served for those who attend, but don't thank us - thank <a href="http://www.principaltechnologies.com/">Principal Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community, and we thank them for providing lunch, and helping support us.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Meeting: January 2012]]></title>
-    <link href="http://okcjs.com/blog/2012/01/03/first-meeting-january-2012/"/>
-    <updated>2012-01-03T10:38:00-06:00</updated>
-    <id>http://okcjs.com/blog/2012/01/03/first-meeting-january-2012</id>
-    <content type="html"><![CDATA[<p>The inagural OKC.js meeting will be on Tuesday, January 24th from 11:30-12:30 at the <a href="http://okccoco.com">okcCoCo</a> in Midtown OKC.</p>
-
-<p><a href="http://www.vancelucas.com">Vance Lucas</a> will give a short presentation on JavaScript BDD testing with <a href="http://pivotal.github.com/jasmine/">Jasmine</a>, followed by a group discussion about what people want from the group, topics people want to hear or present on, and the direction of the group in the future.</p>
-
-<p>This group will be open and benifical to anyone involved in any form of JavaScript at any level. We will cover front-end topics like <a href="http://jquery.com">jQuery</a>, HTML5 APIs and the DOM, back-end development topics with tools like <a href="http://nodejs.org">Node.js</a>, <a href="http://expressjs.com/">Express</a>, and <a href="http://npmjs.org/">NPM</a>, as well as core JavaScript fundamentals like proper namespacing and the <a href="http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth">module pattern</a>.</p>
-
-<p>Lunch and drinks will be provided by the nice folks at <a href="http://ninecollective.com/">Nine Collective</a>, so come have a free lunch and get involved in the local JavaScript community.</p>
 ]]></content>
   </entry>
   
