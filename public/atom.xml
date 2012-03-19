@@ -4,7 +4,7 @@
   <title><![CDATA[OKC.js]]></title>
   <link href="http://okcjs.com/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2012-02-14T17:38:17-06:00</updated>
+  <updated>2012-03-19T10:47:06-05:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -12,6 +12,102 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: March 20 - jQuery UI and Photoshop Automation]]></title>
+    <link href="http://okcjs.com/blog/2012/03/19/meeting-march-20-jquery-ui-and-photoshop-automation/"/>
+    <updated>2012-03-19T10:23:00-05:00</updated>
+    <id>http://okcjs.com/blog/2012/03/19/meeting-march-20-jquery-ui-and-photoshop-automation</id>
+    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2012-march-20-frontend.jpg" width="700" title="jQuery UI and Photoshop Automation" ></p>
+
+<h2>About &#8220;Ninjas of the Javascript&#8221;</h2>
+
+<p>Meeting March 20, 2012 from 11:30am - 12:30pm at <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond, OK. Batteries not included, but lunch is!</p>
+
+<h3>A Frontal Assault</h3>
+
+<p>Last month, we highlighted some of the awesome things happening with
+serverside javascript. Now,  this month we want to highlight some
+awesome uses of javascript for the client, and for frontend designers.
+We have two awesome presentations lined up that will demonstrate the
+diversity and usefulness of javascript in your workflow.</p>
+
+<h3>Photoshop Automation With Javascript</h3>
+
+<p>Javascript is everwhere, and if you frequently work in programs such as
+image editors, video editors and sound editors you might be surprised to
+find Javascript in the most unlikely of places. That means as a
+developer or designer, harnessing the power of scripting gives you an
+incredible edge. Photoshop gives you the ability to implement javascript
+for a variety of tasks, which can save you time. It is time to learn the
+ancient secrets of Photoshop, and Dragon Punch™ your photoshop workflow
+with the power of Javascript.</p>
+
+<h3>Effective Clientside Patterns with the jQuery UI Widget factory</h3>
+
+<p>Many of you use jQuery, and similarly, many of you use jQuery UI. Its
+time to go beyond simply using the presets and default widgets in your
+jQuery UI library. In this talk, we will cover how $.widget really
+works, and how beyond its surface, using the widget factory can help you
+write elegant and well organized javascript code in your next
+application. Do not attend expecting a blow by blow demonstration of the
+default widgets. Instead, this is for those who are looking for ways to
+organize their codebase with good patterns and solve their own unique
+problems with jQuery UI.  Shadow Kick™ your web application&#8217;s clientside
+codebase with the awesome javascript conventions, CSS conventions and
+state management afforded by jQuery UI!</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Eric Granata</h3>
+
+<p>Hello, I&#8217;m Eric Granata and I am a visual communicator working in
+graphic design, web design, video production and motion graphics. For
+the past 8 years I have specialized in creative work for churches and
+non-profits. I&#8217;m a blogger, entrepeneuer, designer and developer.
+I get juiced about small business and start-ups and would love to see
+that you are up to and help if I can.</p>
+
+<p><a href="http://twitter.com/granta">@granta</a> - <a href="http://ericgranata.com">Eric&#8217;s Website</a></p>
+
+<h3>Jesse Harlin</h3>
+
+<p>Howdy! I  am developer at <a href="http://www.ninecollective.com">NineCollective</a>  who specializes in client side
+technologies. I am an &#8216;alpha nerd&#8217;,  I love my work, and I am super
+enthsiastic about things like Javascript, Html/Css and Unity 3D. I&#8217;ve
+been working in the web for nearly a decade, and am especially excited
+about the incredible attention javascript has recieved lately as a
+programming language. When I am not programming at work I am probably
+programming at home. I love using code to write algorithmic music,
+program robots, automate Blender, create new electronic musical
+instruments, and make interactive media. When I am not doing that, I am
+working to help enrich the programming usergroup communities, both by
+participating and leading.</p>
+
+<p><a href="http://twitter.com/5imian">@5imian</a></p>
+
+<h2>Tasty Lunch!</h2>
+
+<p>This month we are extremely lucky to be sponsored by <a href="http://www.gdhconsulting.com/">GDH Consulting</a>. GDH
+is a specializeed consulting and resource firm focused on providing
+qualified professionals within the Information Technology,
+telecommunication and Consulting industries to commercial and government
+sectors. GDH is a strong supporter of local usergroups and developers,
+and is very active in the programming community. We are sincerely
+grateful they are providing lunch for us.</p>
+
+<h2>usergroup.location = theDiv</h2>
+
+<p>With the okcCoCo undergoing change, we will be moving our meetup location
+to <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond this month. The &lt;div&gt; is an organization who is dedicated to
+supporting a grassroots usergroup movement that builds the state, and
+helps champion Oklahoma as a web tech hub. The div is located at <em>1712 S. Kelly Ave, in Edmond</em>. We are really excited to be here this month, and
+offer our sincere thanks to the div for helping us.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting: Feb. 21 - Node.js and Socket.io]]></title>
