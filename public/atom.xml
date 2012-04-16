@@ -4,7 +4,7 @@
   <title><![CDATA[OKC.js]]></title>
   <link href="http://okcjs.com/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2012-04-03T11:55:53-05:00</updated>
+  <updated>2012-04-16T10:36:59-05:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: April 17 - Conjunction Junction! What's Your function()?!]]></title>
+    <link href="http://okcjs.com/blog/2012/04/16/meeting-april-17-conjunction-junction-whats-your-function/"/>
+    <updated>2012-04-16T10:09:00-05:00</updated>
+    <id>http://okcjs.com/blog/2012/04/16/meeting-april-17-conjunction-junction-whats-your-function</id>
+    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2012-april-17-functions.jpg" width="700" title="Conjunction Junction! What's Your function()?!" ></p>
+
+<h2>This Month</h2>
+
+<p>Meeting April 17, 2012 from 11:30am - 12:30pm at <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond, OK. Lunch will be provided!</p>
+
+<h3>Something for Everyone</h3>
+
+<p>Over the past few months, we&#8217;ve covered a variety of topics. We&#8217;ve seen javascript on the server, in the browser and even in your favorite image editor. This month, we are going to cover a topic that is important to anyone using javascript, no matter where you are working : functions !</p>
+
+<h3>Conjunction Junction! What&#8217;s your function()?!</h3>
+
+<p>An Entire Session on functions in JavaScript. Yep, you heard right, an hour full of bad jokes, horrible puns, internet memes, and completely unrelated references to school house rock. Oh and of course JavaScript. Join us on a magical journey from beginner to advanced to WTF (Whats that Function?!?). Along the way we will make super ultimate friends with hoisting, overloading, recursion, declaration, &#8220;type&#8221;, length, arguments, invocation and more. You&#8217;ve got a fever, and the only prescription is more functions! Now&#8230; take(your.medicine);</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Ryan Rauh</h3>
+
+<p>Ryan Rauh knows some things and stuff. Come hear him talk about them!</p>
+
+<p><a href="http://twitter.com/rauhryan">@rauhryan</a> - <a href="http://lostechies.com/ryanrauh/">Ryan&#8217;s Website</a></p>
+
+<h2>Tasty Lunch!</h2>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
+
+<h2>usergroup.location = theDiv</h2>
+
+<p>With the okcCoCo undergoing change, we will be moving our meetup location to <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond this month. The &lt;div&gt; is an organization who is dedicated to supporting a grassroots usergroup movement that builds the state, and helps champion Oklahoma as a web tech hub. The div is located at <em>1712 S. Kelly Ave, in Edmond</em>. We are really excited to be here this month, and offer our sincere thanks to the div for helping us.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting: March 20 - jQuery UI and Photoshop Automation]]></title>
