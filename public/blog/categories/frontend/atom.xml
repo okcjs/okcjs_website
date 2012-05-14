@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: frontend | OKC.js]]></title>
+  <link href="http://okcjs.com/blog/categories/frontend/atom.xml" rel="self"/>
+  <link href="http://okcjs.com/"/>
+  <updated>2012-05-14T09:53:15-05:00</updated>
+  <id>http://okcjs.com/</id>
+  <author>
+    <name><![CDATA[Brightbit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: May 15 - Knock-Out! Your Browser!]]></title>
+    <link href="http://okcjs.com/blog/2012/05/14/meeting-may-15-knock-out-your-browser/"/>
+    <updated>2012-05-14T09:41:00-05:00</updated>
+    <id>http://okcjs.com/blog/2012/05/14/meeting-may-15-knock-out-your-browser</id>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2012-may-15-knockout.jpg" width="700" title="Knock-Out! Your Browser!" ></p>
+
+<h2>This Month</h2>
+
+<p>Meeting May 15, 2012 from 11:30am - 12:30pm at <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond, OK. Lunch will be provided!</p>
+
+<h3>Knock-Out!! Your Browser</h3>
+
+<p>This month we have a story of true victory. Users expect a modern web application to be a responsive and rich interactive experience. Users will be accessing your site from a variety of mediums, and will be expecting immediate feedback when they are interacting with the page. Don't let this send a haymaker to your appliation!</p>
+
+<p>This month we have two presentations lined up to get your browser down to fighting weight. In one corner we have Micah Choquette, who will teach you how to adapt your application to any viewing environment. You can 'Parry and Block' and 'Slip and Turn', as a whole host of viewing resolutions and devices get thrown at your app. In the other corner, we have Michael Sarchet who will teach you how to create a highly interactive experince with knockout.js. Use the power of MVVM to Cross, Hook and Jab your clientside viewmodel. Your pages will float like a butterfly and sting like a bee!</p>
+
+<p>Its time to weigh in. The browser is waiting for your challenge!!</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Micah Choquette</h3>
+
+<p>A freelance web designer since 2003, Micah was hired on at the Tulsa World in 2010 to help launch their very successful Metered Model. His passion is working with small and micro-businesses and helping them rediscover and communicate their core values to their audience on the web. He believes in doing work that matters.</p>
+
+<p><a href="http://twitter.com/meetmicah">@meetmicah</a> - <a href="http://www.meetmicah.com/">Check Out Micah's Website</a></p>
+
+<h3>Michael Sarchet</h3>
+
+<p>Michael has been programming ever since he started learning QBasic at
+the age of 11 on his 486dx. He currently works in C# for his job, and
+enjoys working in Ruby/Rails/etc</p>
+
+<p><a href="http://twitter.com/msarchet">@msarchet</a></p>
+
+<h2>Tasty Lunch!</h2>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They've made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
+
+<h2>usergroup.location = theDiv</h2>
+
+<p>With the okcCoCo undergoing change, we will be moving our meetup location to <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond this month. The &lt;div&gt; is an organization who is dedicated to supporting a grassroots usergroup movement that builds the state, and helps champion Oklahoma as a web tech hub. The div is located at <em>1712 S. Kelly Ave, in Edmond</em>. We are really excited to be here this month, and offer our sincere thanks to the div for helping us.</p>
+]]></content>
+  </entry>
+  
+</feed>
