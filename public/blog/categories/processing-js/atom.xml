@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: processing.js | OKC.js]]></title>
+  <link href="http://okcjs.com/blog/categories/processing-js/atom.xml" rel="self"/>
+  <link href="http://okcjs.com/"/>
+  <updated>2012-07-16T11:59:20-05:00</updated>
+  <id>http://okcjs.com/</id>
+  <author>
+    <name><![CDATA[Brightbit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: July 17 - Processing.js]]></title>
+    <link href="http://okcjs.com/blog/2012/07/16/meeting-july-17-processing-dot-js/"/>
+    <updated>2012-07-16T11:29:00-05:00</updated>
+    <id>http://okcjs.com/blog/2012/07/16/meeting-july-17-processing-dot-js</id>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2012-july-17-processingjs.jpeg" width="700" title="Processing.js" ></p>
+
+<h2>This Month: Heads Up! Location Change!</h2>
+
+<p>The Div was an awesome place to hold our meetings for a long time. The Div is evolving now, and <a href="http://thediv.org/2012/06/18/our-new-focus-and-pivot/">shifting its focus to better serve the Oklahoma Tech Community</a>. Since they are focusing on inspiring a new generation of developers, their facility this month will be used to host a Scratch Camp, and in the future they will focus more on <a href="http://thediv.org/div-jr-program/">Div Jr</a>.</p>
+
+<p>We are thankful for the awesome time we spent there! However, now we
+need to meet at a differnt location, so for this month we are going to
+meet at <a href="http://www.metrotech.edu/campuses/edc.html">MetroTech Economic Development Center</a> in <strong>Room 114</strong> (<a href="http://goo.gl/maps/2L30">view map</a>). For this building on campus you should park in Lot I, and the entrance is either entry 13 or 14.</p>
+
+<p>Here are some maps to help you find us:<br/>
+ * <a href="http://goo.gl/maps/3uo6">How to get to Metro Tech Springlake Campus</a><br/>
+ * <a href="http://www.metrotech.edu/campuses/springlakemap.pdf">A Map of the Springlake Campus (pdf)</a></p>
+
+<h3>Its time to take your visualization capabilities to the next level</h3>
+
+<p><a href="http://processingjs.org">Processing.js</a> is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations, digital art, interactive animations, educational graphs, video games, etc. work using web standards and without any plug-ins. You write code using the Processing language, include it in your web page, and Processing.js does the rest. It's not magic, but almost.</p>
+
+<p>Yury is going to help us get started with Processing.js. There is a reason Processing is highly popular with lots of creative people. Processing.js brings the best of visual programming to the web, both for Processing and web developers.   Processing can help you achieve practical goals, but it can also be a means for self expression. If you've been amazed at some of the cool things happening in the browser, and are interested in being a part of the exciting changes javascript is bringing to modern development; don't miss this meeting!</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Yury Delendik</h3>
+
+<p>Yury Delendik’s first open source project was the processing.js. Since then, he is involved with the Mozilla community. He likes to implement various binary formats decoders in JavaScript and other languages. Currently, he works at Mozilla Research on the <a href="http://andreasgal.com/2011/06/15/pdf-js/">pdf.js</a> and <a href="https://github.com/mozilla/shumway">shumway</a> projects.</p>
+
+<p><a href="https://github.com/yurydelendik">Check out Yury on GitHub!</a></p>
+
+<h2>Tasty Lunch!</h2>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They've made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
+]]></content>
+  </entry>
+  
+</feed>
