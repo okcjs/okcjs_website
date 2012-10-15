@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October Meeting: Mootools. Prototype"
+title: "Meeting: October 16 - Mootools. Prototype."
 date: 2012-10-15 12:44
 comments: true
 categories: [mootools, prototype]
@@ -10,7 +10,7 @@ categories: [mootools, prototype]
 
 ## This Month
 
-Meeting October 15, 2012 @Venture Spur
+Meeting October 16, 2012 @Venture Spur
 
 ### Mootools. Prototype.
 
