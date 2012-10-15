@@ -17,6 +17,8 @@ Meeting October 16, 2012 @Venture Spur
 
 "I love Javascript. Its so bad !" 
 
+{% img "float-left" /images/misc/its_so_bad.jpg 175 Javascript makes me feel like this. %}
+
 You know why? There is a lot of choices and a lot of variety. There are a lot of tested, mature and useful frameworks and patterns available to a developer. Each one offers insight and techniques to help him/her solve real problems and achieve real goals. Javascript is totally bad. That means "good bad", not, you know.... bad, bad.
 
 One such framework is Mootools. Mootols (My Object-Oriented Tools) is a compact, modular Object-oriented js framework designed for intermediate to advanced javascript developers. Mootools is battle worn, tried and true. Its been powering sites for as long a jQuery, and has a strong userbase. The framework is extensible and modular, follows dry principles and allows for rich DOM interaction. If you've never taken Mootols for a test drive before, now is a chance to see what it can offer.
