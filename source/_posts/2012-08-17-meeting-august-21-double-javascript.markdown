@@ -64,6 +64,6 @@ Sheridan Walker Garage, Central parking on Hudson, across from that is Metro Par
 Around the corner is Century Garage, and Cox Parking Garage at the intersection of Robinson and Sheridan
 After you've parked, make your way to the fourth floor of the library and find room 46, the Star Auditorium.
 
-## Level Up!
+
 
 
