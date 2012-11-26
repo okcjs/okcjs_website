@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meeting: November 27 - Prototype Warriors"
-date: 2012-10-15 12:44
+date: 2012-11-27 12:44
 comments: true
 categories: [prototypes, design patterns]
 

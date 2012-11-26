@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: design patterns | OKC.js]]></title>
+  <link href="http://okcjs.com/blog/categories/design-patterns/atom.xml" rel="self"/>
+  <link href="http://okcjs.com/"/>
+  <updated>2012-11-26T08:47:31-06:00</updated>
+  <id>http://okcjs.com/</id>
+  <author>
+    <name><![CDATA[Brightbit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: November 27 - Prototype Warriors]]></title>
+    <link href="http://okcjs.com/blog/2012/11/27/november-meeting-prototype-warriors/"/>
+    <updated>2012-11-27T12:44:00-06:00</updated>
+    <id>http://okcjs.com/blog/2012/11/27/november-meeting-prototype-warriors</id>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2012-November-protptype-warriors.png" width="700" title="Prototype Warriors" ></p>
+
+<h2>This Month</h2>
+
+<p>Meeting November 27, 2012 @Venture Spur</p>
+
+<h3>Prototype warriors.</h3>
+
+<p>"Prototype Warriors"</p>
+
+<p>Prototypal inheritance in JavaScript isn't that complicated; it's just a little...confusing. We'll look at how JavaScript disguises its prototypes, what's going on under the disguise, and even a few ideas on how to embrace prototypes and make them more transparent.</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Dennis Ferron</h3>
+
+<p>I'm a graduate of the computer science program from Southwestern Oklahoma State University. I have worked in the software industry writing business software, and also participated in an undergraduate research program in machine learning and artificial intelligence. I did an engineering intership with NASA at the Johnson Space Center in Houston.  I currently work as a .NET developer for Love's Country Stores and Travel Stops.</p>
+
+<h3>Jonathan Camenisch</h3>
+
+<p>I help build the web. Or, more specifically, I do full-stack web programming* projects for large and small businesses (and some for fun). I also have experience applying various technologies to business strategy, and I enjoy helping in brainstorming of every kind.</p>
+
+<h2>Tasty Lunch!</h2>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They've made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
+
+<h2>usergroup.location = Venture Spur;</h2>
+
+<p><a href="http://www.http://venturespur.com//">Venture Spur</a></p>
+
+<p>VentureSpur
+700 1/2 West Sheridan Avenue
+Oklahoma City, OK 73102</p>
+
+<p>(405) 367-0897
+<img src="/images/misc/VentureSpur-Parking-Map-June-2012.png" width="700" title="Parking at Venture Spur" ></p>
+
+<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
+
+<p><a href="http://venturespur.com/wp-content/uploads/2012/03/VentureSpur-How-To-Find-Us.pdf">Parking Locations</a></p>
+]]></content>
+  </entry>
+  
+</feed>
