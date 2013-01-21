@@ -10,7 +10,7 @@ categories: [mootools, prototype]
 
 ## This Month
 
-Meeting October 16, 2012 @Venture Spur
+Meeting October 16, 2012 @The Exchange
 
 ### Mootools. Prototype.
 
@@ -41,16 +41,16 @@ Michael has been programming ever since he started learning QBasic at the age of
 
 Tasty lunch will be served thanks to [Robert Half Technologies](http://www.roberthalftechnology.com/). These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They've made it clear they want to see our usergroup succeed, which is an epic win for everyone!
 
-## usergroup.location = Venture Spur;
+## usergroup.location = The Exchange;
 
 
-[Venture Spur](http://www.http://venturespur.com//) 
+[The Exchange](http://www.exchangeokc.com) 
 
-VentureSpur
+The Exchange
 700 1/2 West Sheridan Avenue
 Oklahoma City, OK 73102
 
-(405) 367-0897
+(405) 601-9200 
 {% img /images/misc/VentureSpur-Parking-Map-June-2012.png 700 Parking at Venture Spur %}
 
 [Google maps link](https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&hl=en&sll=37.0625,-95.677068&sspn=83.75977,57.919922&hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&t=m&z=17)
