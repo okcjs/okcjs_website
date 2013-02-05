@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Casino RPG | OKC.js]]></title>
+  <link href="http://okcjs.com/blog/categories/casino-rpg/atom.xml" rel="self"/>
+  <link href="http://okcjs.com/"/>
+  <updated>2013-02-05T10:12:00-06:00</updated>
+  <id>http://okcjs.com/</id>
+  <author>
+    <name><![CDATA[Brightbit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: February 19 - The Making Of A Javascript Game]]></title>
+    <link href="http://okcjs.com/blog/2013/02/19/february-meeting-casinorpg/"/>
+    <updated>2013-02-19T12:44:00-06:00</updated>
+    <id>http://okcjs.com/blog/2013/02/19/february-meeting-casinorpg</id>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2013-february-casinorpg.jpg" width="700" title="CasinoRPG" ></p>
+
+<h2>This Month</h2>
+
+<p>Meeting February 19, 2013 @The Exchange</p>
+
+<h3>The Making Of A Javascript Game.</h3>
+
+<h2>"Wait.... You Can Make Games With Javascript  ?"</h2>
+
+<p>Dude. Yes you can.</p>
+
+<p>Some developers from right here in Oklahoma are doing it right now. James Simpson and Luke Simpkins of Goldfire Studios have managed to create a vast, persistent virtual world that you can enjoy with javascript. The game is accessible anywhere using the latest Html 5 technologies, right in your browser, phone, tablet or any other modern device.</p>
+
+<p>You can't miss this next meeting. You'll have an opportunity to listen to some talented developers talk about their experiences in this technology stack, their experiences in the game industry, and how they have dealt with many common, and possibly not-so-common issues with client-stack game development.</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>James Simpson [@GoldfireStudios]</h3>
+
+<p>James is the founder of GoldFire Studios and developed his first web game at the age of 13. For the last decade-plus, James has been developing games and game related products for the web that have reached millions of players all around the world.</p>
+
+<h3>Luke Simkins [@LSimkins]</h3>
+
+<p>Luke started creating games when he was in high school, over a decade ago. He has also been involved with web startups ever since, leading development on projects for clients such as Warner..</p>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They've made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
+
+<h2>usergroup.location = The Exchange;</h2>
+
+<p><a href="http://www.exchangeokc.com/">The Exchange</a></p>
+
+<p>The Exchange
+700 1/2 West Sheridan Avenue
+Oklahoma City, OK 73102</p>
+
+<p>(405) 601-9200</p>
+
+<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
+]]></content>
+  </entry>
+  
+</feed>
