@@ -10,7 +10,11 @@ categories: [Game, Goldfire, Casino RPG, James Simpson, Luke Simkins]
 
 ## This Month
 
-Meeting February 19, 2013 @The Exchange
+Tuesday: February 19, 2013 
+
+11:30 am
+
+@The Exchange
 
 ### The Making Of A Javascript Game.
 
