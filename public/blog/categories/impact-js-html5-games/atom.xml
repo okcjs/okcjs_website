@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Impact.js html5 games | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/impact-js-html5-games/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-06-13T10:50:00-05:00</updated>
+  <updated>2013-06-13T10:53:34-05:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -12,63 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting: June 18 - Ember.js]]></title>
-    <link href="http://okcjs.com/blog/2013/06/18/june-meeting-emberjs/"/>
-    <updated>2013-06-18T12:44:00-05:00</updated>
-    <id>http://okcjs.com/blog/2013/06/18/june-meeting-emberjs</id>
-    <content type="html"><![CDATA[<p><img src="/images/posters/2013-June-Emberjs.png" width="700" title="Impactjs" ></p>
-
-<h2>This Month</h2>
-
-<p>Tuesday: June 18, 2013</p>
-
-<p>11:30 am</p>
-
-<p>@The Exchange
-700 1/2 W. Sheridan Ave.,
-Oklahoma City, Oklahoma
-73102</p>
-
-<h2>"About "Ember.js"</h2>
-
-<h3>Light Your Fires for Ember</h3>
-
-<p>Ember Js bills itself as a framework for creating ambitious web applications. Its a strong system integrating data binding, templates, and common idioms so you can focus on what makes a web app special, without reinventing the wheel. Perhaps you've worked in other frameworks, and have wondered what makes Ember exceptional.</p>
-
-<p>Now is your chance to learn, and Jeremy Green is going to be your guide on a titillating code safari deep into the trenches of Ember.</p>
-
-<!-- more -->
-
-
-<h2>About our Speakers</h2>
-
-<h3>Jeremy Green</h3>
-
-<p>I'm a hard-working, entrepreneurial, full-stack web engineer.  I believe in test-driven development, minimum viable products, short iterations, fat models, skinny controllers, version control, feature branches, automated deployment, performance as a feature, 24x7 monitoring, proactive detection of problems, and using the right tool for each job.  I engineer scalable solutions to allow infrastructure costs to rise and fall with demand.</p>
-
-<p><a href="http://www.octolabs.com/">Jeremy's Octolabs Page</a></p>
-
-<h3>Our Sponsors</h3>
-
-<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They've made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
-
-<h2>usergroup.location = The Exchange;</h2>
-
-<p><a href="http://www.exchangeokc.com/">The Exchange</a></p>
-
-<p>The Exchange is located on the second floor of the historic Film Exchange building in downtown Oklahoma City.  This unique loft space is a breath of fresh air for those wanting to step away from traditional event locals and reception areas while still remaining close to all the action of the city.</p>
-
-<p>The Exchange
-700 1/2 West Sheridan Avenue
-Oklahoma City, OK 73102</p>
-
-<p>(405) 601-9200</p>
-
-<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting: May 21 - IMPACTjs]]></title>

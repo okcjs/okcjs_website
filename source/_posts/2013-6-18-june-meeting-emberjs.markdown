@@ -3,7 +3,7 @@ layout: post
 title: "Meeting: June 18 - Ember.js"
 date: 2013-6-18 12:44
 comments: true
-categories: [Impact.js html5 games]
+categories: [Ember.js Mustache Frameworks]
 
 ---
 {% img /images/posters/2013-June-Emberjs.png 700 Impactjs %}
