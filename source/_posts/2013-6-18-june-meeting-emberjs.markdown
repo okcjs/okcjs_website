@@ -6,7 +6,7 @@ comments: true
 categories: [Ember.js Mustache Frameworks]
 
 ---
-{% img /images/posters/2013-June-Emberjs.png 700 Impactjs %}
+{% img /images/posters/2013-June-Emberjs.png 700 Emberjs %}
 
 ## This Month
 

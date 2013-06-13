@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ember.js Mustache Frameworks | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/ember-js-mustache-frameworks/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-06-13T10:53:34-05:00</updated>
+  <updated>2013-06-13T10:55:30-05:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2013/06/18/june-meeting-emberjs/"/>
     <updated>2013-06-18T12:44:00-05:00</updated>
     <id>http://okcjs.com/blog/2013/06/18/june-meeting-emberjs</id>
-    <content type="html"><![CDATA[<p><img src="/images/posters/2013-June-Emberjs.png" width="700" title="Impactjs" ></p>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2013-June-Emberjs.png 700 Emberjs %}</p>
 
 <h2>This Month</h2>
 
