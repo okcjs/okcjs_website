@@ -37,7 +37,7 @@ Let Yuri Show you how.
 
 ## About our Speakers
 
-### Yuri Delendik
+### Yury Delendik
 Yury Delendik’s first open source project was the processing.js. Since then, he is involved with the Mozilla community. He likes to implement various binary formats decoders in JavaScript and other languages. Currently, he works at Mozilla Research on the pdf.js and shumway projects
 ### Our Sponsors
 Tasty lunch will be served thanks to [Robert Half Technologies](http://www.roberthalftechnology.com/). These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They've made it clear they want to see our usergroup succeed, which is an epic win for everyone!

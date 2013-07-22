@@ -4,7 +4,7 @@
   <title><![CDATA[Category: user directed | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/user-directed/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-07-22T02:37:30-05:00</updated>
+  <updated>2013-07-22T03:10:01-05:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2012/12/18/december-meeting-javascript-lightening/"/>
     <updated>2012-12-18T12:44:00-06:00</updated>
     <id>http://okcjs.com/blog/2012/12/18/december-meeting-javascript-lightening</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2012-december-javascript-lightning.jpg 700 Javascript-Lightning %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2012-december-javascript-lightning.jpg" width="700" title="Javascript-Lightning" ></p>
 
 <h2>This Month</h2>
 
@@ -56,7 +56,7 @@
 Oklahoma City, OK 73102</p>
 
 <p>(405) 601-9200
-{% img /images/misc/VentureSpur-Parking-Map-June-2012.png 700 Parking at Venture Spur %}</p>
+<img src="/images/misc/VentureSpur-Parking-Map-June-2012.png" width="700" title="Parking at Venture Spur" ></p>
 
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
 
