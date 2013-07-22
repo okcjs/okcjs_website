@@ -1,4 +1,4 @@
-$max-width: 1200px !default;
+$max-width: 1450px !default;
 
 // Padding used for layout margins
 $pad-min: 18px !default;
@@ -131,6 +131,7 @@ body.sidebar-footer {
     @extend .group;
     padding: 0;
     margin: 0 auto;
+    overflow:auto;
   }
   #content {
     @extend .group;

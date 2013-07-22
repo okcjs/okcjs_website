@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ember.js Mustache Frameworks | OKC.js]]></title>
-  <link href="http://okcjs.com/blog/categories/ember-js-mustache-frameworks/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Firefox OS | OKC.js]]></title>
+  <link href="http://okcjs.com/blog/categories/firefox-os/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
   <updated>2013-07-22T02:37:30-05:00</updated>
   <id>http://okcjs.com/</id>
@@ -14,15 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Meeting: June 18 - Ember.js]]></title>
-    <link href="http://okcjs.com/blog/2013/06/18/june-meeting-emberjs/"/>
-    <updated>2013-06-18T12:44:00-05:00</updated>
-    <id>http://okcjs.com/blog/2013/06/18/june-meeting-emberjs</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2013-June-Emberjs.png 700 Emberjs %}</p>
+    <title type="html"><![CDATA[Meeting: July 23 - Web applications in Firefox OS]]></title>
+    <link href="http://okcjs.com/blog/2013/07/23/july-meeting-firefox-os/"/>
+    <updated>2013-07-23T11:30:00-05:00</updated>
+    <id>http://okcjs.com/blog/2013/07/23/july-meeting-firefox-os</id>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2013-July-FirefoxOs.png 700 Firefox OS %}</p>
 
 <h2>This Month</h2>
 
-<p>Tuesday: June 18, 2013</p>
+<p>Tuesday: July 23, 2013</p>
 
 <p>11:30 am</p>
 
@@ -31,24 +31,26 @@
 Oklahoma City, Oklahoma
 73102</p>
 
-<h2>"About "Ember.js"</h2>
+<h2>"About "Writing Web Apps for Firefox OS"</h2>
 
-<h3>Light Your Fires for Ember</h3>
+<h3>Can I really do this with Javascript?</h3>
 
-<p>Ember Js bills itself as a framework for creating ambitious web applications. Its a strong system integrating data binding, templates, and common idioms so you can focus on what makes a web app special, without reinventing the wheel. Perhaps you've worked in other frameworks, and have wondered what makes Ember exceptional.</p>
+<p>Yes.</p>
 
-<p>Now is your chance to learn, and Jeremy Green is going to be your guide on a titillating code safari deep into the trenches of Ember.</p>
+<p>Firefox OS apps are just Web apps written with HTML, CSS, and JavaScript.</p>
+
+<p>You publish them on the Web like you would publish any other Web site.</p>
+
+<p>Let Yuri Show you how.</p>
 
 <!-- more -->
 
 
 <h2>About our Speakers</h2>
 
-<h3>Jeremy Green</h3>
+<h3>Yuri Delendik</h3>
 
-<p>I'm a hard-working, entrepreneurial, full-stack web engineer.  I believe in test-driven development, minimum viable products, short iterations, fat models, skinny controllers, version control, feature branches, automated deployment, performance as a feature, 24x7 monitoring, proactive detection of problems, and using the right tool for each job.  I engineer scalable solutions to allow infrastructure costs to rise and fall with demand.</p>
-
-<p><a href="http://www.octolabs.com/">Jeremy's Octolabs Page</a></p>
+<p>Yury Delendik’s first open source project was the processing.js. Since then, he is involved with the Mozilla community. He likes to implement various binary formats decoders in JavaScript and other languages. Currently, he works at Mozilla Research on the pdf.js and shumway projects</p>
 
 <h3>Our Sponsors</h3>
 

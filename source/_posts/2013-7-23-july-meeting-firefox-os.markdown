@@ -8,8 +8,7 @@ categories: [Firefox OS]
 ---
 {% img /images/posters/2013-July-FirefoxOs.png 700 Firefox OS %}
 
-## This Month
-
+##This Month
 Tuesday: July 23, 2013 
 
 11:30 am

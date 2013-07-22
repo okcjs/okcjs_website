@@ -1,0 +1,13 @@
+albino
+bigdecimal
+blankslate
+bundle
+bundler
+chunky_png
+io-console
+json
+minitest
+posix-spawn
+rake
+rdoc
+RedCloth

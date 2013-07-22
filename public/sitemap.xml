@@ -2,92 +2,96 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://okcjs.com/blog/2012/01/03/first-meeting-january-2012/</loc>
-        <lastmod>2012-08-17T08:29:31-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2012/02/14/meeting-feb-21-node-dot-js-and-socket-dot-io/</loc>
-        <lastmod>2012-08-17T08:29:31-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>
             http://okcjs.com/blog/2012/03/19/meeting-march-20-jquery-ui-and-photoshop-automation/
         </loc>
-        <lastmod>2012-08-17T08:29:31-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>
             http://okcjs.com/blog/2012/04/16/meeting-april-17-conjunction-junction-whats-your-function/
         </loc>
-        <lastmod>2012-08-17T08:29:31-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2012/05/14/meeting-may-15-knock-out-your-browser/</loc>
-        <lastmod>2012-08-17T08:29:31-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>
             http://okcjs.com/blog/2012/06/18/meeting-june-19-final-fox-the-future-of-the-web/
         </loc>
-        <lastmod>2012-08-17T08:29:31-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2012/07/16/meeting-july-17-processing-dot-js/</loc>
-        <lastmod>2012-08-17T08:29:31-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2012/08/17/meeting-august-21-double-javascript/</loc>
-        <lastmod>2012-08-17T11:40:10-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2012/10/15/october-meeting-mootools-prototype/</loc>
-        <lastmod>2013-01-21T10:25:52-06:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2012/11/27/november-meeting-prototype-warriors/</loc>
-        <lastmod>2013-01-21T10:24:56-06:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2012/12/18/december-meeting-javascript-lightening/</loc>
-        <lastmod>2013-01-21T10:25:08-06:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/01/22/january-meeting-ecmafox/</loc>
-        <lastmod>2013-01-21T10:22:34-06:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/02/19/february-meeting-casinorpg/</loc>
-        <lastmod>2013-02-14T12:02:24-06:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/03/26/march-meeting-overdrive-your-javascript/</loc>
-        <lastmod>2013-03-20T15:07:00-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/04/16/april-meeting-lightning-talks/</loc>
-        <lastmod>2013-04-15T09:38:55-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/05/21/may-meeting-impactjs/</loc>
-        <lastmod>2013-05-15T08:57:57-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/06/18/june-meeting-emberjs/</loc>
-        <lastmod>2013-06-13T10:55:29-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://okcjs.com/blog/2013/07/23/july-meeting-firefox-os/</loc>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/archives/</loc>
-        <lastmod>2013-06-13T10:55:29-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/community/</loc>
-        <lastmod>2012-08-17T08:29:31-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/</loc>
-        <lastmod>2013-06-13T10:55:29-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/sponsors/</loc>
-        <lastmod>2012-08-17T08:29:31-05:00</lastmod>
+        <lastmod>2013-07-22T01:47:01-05:00</lastmod>
     </url>
 </urlset>
