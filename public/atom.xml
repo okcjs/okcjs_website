@@ -4,7 +4,7 @@
   <title><![CDATA[OKC.js]]></title>
   <link href="http://okcjs.com/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-08-15T05:22:46-05:00</updated>
+  <updated>2013-09-14T17:02:33-05:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: Sept 17 - New Rules of Javascript]]></title>
+    <link href="http://okcjs.com/blog/2013/08/20/sept-meeting-new-rules-of-js/"/>
+    <updated>2013-08-20T11:30:00-05:00</updated>
+    <id>http://okcjs.com/blog/2013/08/20/sept-meeting-new-rules-of-js</id>
+    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2013-sept-new-rules-of-js.jpg" width="700" title="Kyle Simpson" ></p>
+
+<h2>This Month</h2>
+
+<p>Tuesday: Sept 17, 2013</p>
+
+<p>11:30 am</p>
+
+<p>@The Exchange
+700 1/2 W. Sheridan Ave.,
+Oklahoma City, Oklahoma
+73102</p>
+
+<h2>&#8220;About &#8220;The New Rules For Javascript&#8221;</h2>
+
+<p>I bet you&#8217;ve been writing JS for years and you think you&#8217;re pretty good at it. I bet you think you know all about how functions create closured scope, and how <code>this</code> gets bound, and even how <code>.prototype</code> works. Or, rather, you probably don&#8217;t care because your framework or library takes care of all that for you.</p>
+
+<p>JavaScript is generally considered one of the most misunderstood (and maligned) languages of the modern programming era. And there&#8217;s good reason for that, because most developers who write JS never actually deeply <em>know</em> how the language works. They blame all their WTFs on language bugs, instead of the shortcomings in understanding.</p>
+
+<p>This talk re-visits some of the &#8220;tough parts&#8221; of the language by declaring &#8220;New Rules&#8221;</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Kyle Simpson</h3>
+
+<h4><a href="http://getify.me/">@getify</a></h4>
+
+<p>Kyle Simpson is an Open Web Evangelist from Austin, TX. He&#8217;s passionate about JavaScript, HTML5, real-time/peer-to-peer communications, and web performance. Otherwise, he&#8217;s probably bored by it. Kyle is an author, workshop trainer, tech speaker, and avid OSS community member.</p>
+
+<h3>Our Sponsors</h3>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
+
+<h2>usergroup.location = The Exchange;</h2>
+
+<p><a href="http://www.exchangeokc.com/">The Exchange</a></p>
+
+<p>The Exchange is located on the second floor of the historic Film Exchange building in downtown Oklahoma City.  This unique loft space is a breath of fresh air for those wanting to step away from traditional event locals and reception areas while still remaining close to all the action of the city.</p>
+
+<p>The Exchange
+700 1/2 West Sheridan Avenue
+Oklahoma City, OK 73102</p>
+
+<p>(405) 601-9200</p>
+
+<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting: Aug 20 - Lightning Talks III]]></title>
