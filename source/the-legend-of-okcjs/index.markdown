@@ -10,3 +10,6 @@ footer: true
 
 
 {% youtube 1_1cSOctjg4 %}
+
+Video by [Jesse Harlin](http://www.jesseharlin.net/)
+
