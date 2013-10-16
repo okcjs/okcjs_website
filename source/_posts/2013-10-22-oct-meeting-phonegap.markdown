@@ -28,7 +28,7 @@ Are you excited about all the mobile technologies available today but you can’
 ## About our Speakers
 
 ### Jeff French
-#### [@jeff-french](http://geekindulgence.com//)
+#### [Geek Indulgence](http://geekindulgence.com//)
 Jeff French is an experienced developer with a passion for automation, software craftsmanship and good craft beer. A mild mannered developer by day and a hopeless technology junky by night. He has extensive experience in web and mobile application development, deployment automation, and continuous delivery. He constantly strives to learn how new technologies can help solve real world problems. He has been a contributor to such open source projects as MVC Turbine, Shoelace-MVC and Octopus Deploy’s OctoPack. Jeff is an international speaker at technology conferences giving talks on DevOps, Continuous Delivery, Mobile and Web Development, Javascript frameworks and whatever else strikes his interest.
 
 
