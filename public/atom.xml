@@ -4,7 +4,7 @@
   <title><![CDATA[OKC.js]]></title>
   <link href="http://okcjs.com/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-10-15T23:52:37-05:00</updated>
+  <updated>2013-11-13T22:58:25-06:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: Oct 22 - Phonegap]]></title>
+    <link href="http://okcjs.com/blog/2013/11/19/not-meeting-howlerjs/"/>
+    <updated>2013-11-19T11:30:00-06:00</updated>
+    <id>http://okcjs.com/blog/2013/11/19/not-meeting-howlerjs</id>
+    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2013-nov-howlerjs.jpg" width="700" title="James Simpson" ></p>
+
+<h2>This Month</h2>
+
+<p>Tuesday: Nov 19, 2013</p>
+
+<p>11:30 am</p>
+
+<p>@The Exchange
+700 1/2 W. Sheridan Ave.,
+Oklahoma City, Oklahoma
+73102</p>
+
+<h2>&#8220;About &#8220;Howler.js&#8221;</h2>
+
+<p>Audio sucks on the web. Thankfully, there is a great library that helps with that : Howler.js. Howler can help with a variety of web audio needs, with graceful fallbacks to HTML5 Audio. Howler.js is a library that makes playing back audio in JavaScript simpler.  It allows you to control when it starts and stops, looping, fading in and out, playback of multiple sounds at the same time, support for multiple codecs and more..</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>James Simpson</h3>
+
+<h4><a href="http://goldfirestudios.com/">Goldfire Studios</a></h4>
+
+<p>James is the founder of GoldFire Studios and developed his first web game at the age of 13. For the last decade-plus, James has been developing games and game related products for the web that have reached millions of players all around the world.</p>
+
+<h3>Our Sponsors</h3>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
+
+<h2>usergroup.location = The Exchange;</h2>
+
+<p><a href="http://www.exchangeokc.com/">The Exchange</a></p>
+
+<p>The Exchange is located on the second floor of the historic Film Exchange building in downtown Oklahoma City.  This unique loft space is a breath of fresh air for those wanting to step away from traditional event locals and reception areas while still remaining close to all the action of the city.</p>
+
+<p>The Exchange
+700 1/2 West Sheridan Avenue
+Oklahoma City, OK 73102</p>
+
+<p>(405) 601-9200</p>
+
+<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting: Oct 22 - Phonegap]]></title>
@@ -1045,42 +1098,6 @@ to <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond this month. The &lt
 supporting a grassroots usergroup movement that builds the state, and
 helps champion Oklahoma as a web tech hub. The div is located at <em>1712 S. Kelly Ave, in Edmond</em>. We are really excited to be here this month, and
 offer our sincere thanks to the div for helping us.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting: Feb. 21 - Node.js and Socket.io]]></title>
-    <link href="http://okcjs.com/blog/2012/02/14/meeting-feb-21-node-dot-js-and-socket-dot-io/"/>
-    <updated>2012-02-14T17:14:00-06:00</updated>
-    <id>http://okcjs.com/blog/2012/02/14/meeting-feb-21-node-dot-js-and-socket-dot-io</id>
-    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2012-feb-21-node.jpg" width="700" title="Node.js and Socket.io" ></p>
-
-<h2>Rock Your World with Node.js and Socket.io!</h2>
-
-<p>We already have a robust usergroup in terms of size, and we are attempting something ambitious - a live coding session with audience participation. We will have two speakers at our coding session, Ben Van Treese, and Rob Sullivan. Bring your laptops to the meeting if you want to participate and be blown away by live websocket awesomeness.</p>
-
-<p>First, Ben is going to help you go full throttle from neophyte to awesome in the exciting world of Node. We are going to first cover the basics of node and then construct a small node app for the first part of the meeting. This should be a perfect entry point for those new to node, but should also be practical for those at a novice skill level. Then we will cover some more advanced material. Rob is going to join in and simulate an Enterprise environment and load for our app. Everyone interested in Node.js, websockets, and real-time communications should get something out of this presentation.</p>
-
-<!-- more -->
-
-
-<h2>About our Speakers</h2>
-
-<h3>Rob Sullivan</h3>
-
-<p>Rob is a bona fide Alpha Nerd, SQL Server DBA by day and code slinger by night. He is also the token DBA on This Developers Life, SQL Dude for Tekpub, open source contributor to .NET Micro ORMS and speaker. He is an active member of the Oklahoma City Developers Group and founder/officer of his beloved Oklahoma City SQL Server Developers Group.</p>
-
-<p><a href="http://twitter.com/datachomp">@datachomp</a> - <a href="http://datachomp.com/">Check out Rob&#8217;s blog!</a></p>
-
-<h3>Ben Van Tresse</h3>
-
-<p>Ben Van Treese is a developer at Nine Collective focusing on server side and client side programming. Ben is a graduate of Southwestern Oklahoma State University with a B.S. in Computer Science. He has been programming for over 10 years in various programming languages. Ben&#8217;s other interests include everything from cooking and gardening to machine learning and robotics.</p>
-
-<p><a href="http://twitter.com/vantreeseba">@vantreeseba</a> - <a href="https://github.com/vantreeseba">See what Ben is doing on GitHub!</a></p>
-
-<h2>Lunch!</h2>
-
-<p>We learned last month that the same demographic that writes javascript apparently is also the same demographic that can totally vaporize pizza. That or we underestimated just how awesome our turnout would be. In any case we are prepared this February. Tasty lunch will be served for those who attend, but don&#8217;t thank us - thank <a href="http://www.principaltechnologies.com/">Principal Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community, and we thank them for providing lunch, and helping support us.</p>
 ]]></content>
   </entry>
   
