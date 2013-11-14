@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting: Oct 22 - Phonegap"
+title: "Meeting: Nov 19 - Howler.js"
 date: 2013-11-19 11:30
 comments: true
 categories: [Howler.js, James Simpson]

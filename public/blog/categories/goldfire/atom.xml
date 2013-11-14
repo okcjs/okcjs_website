@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Goldfire | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/goldfire/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-11-13T22:58:28-06:00</updated>
+  <updated>2013-11-13T23:00:08-06:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2013/02/19/february-meeting-casinorpg/"/>
     <updated>2013-02-19T12:44:00-06:00</updated>
     <id>http://okcjs.com/blog/2013/02/19/february-meeting-casinorpg</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2013-february-casinorpg.jpg 700 CasinoRPG %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2013-february-casinorpg.jpg" width="700" title="CasinoRPG" ></p>
 
 <h2>This Month</h2>
 
