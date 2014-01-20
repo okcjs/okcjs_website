@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Josh Bavari | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/josh-bavari/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-12-12T12:37:00-06:00</updated>
+  <updated>2014-01-20T20:31:15+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Meeting: Dec 17 - Grunt.js]]></title>
     <link href="http://okcjs.com/blog/2013/12/17/dec-meeting-grunt/"/>
-    <updated>2013-12-17T11:30:00-06:00</updated>
+    <updated>2013-12-17T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2013/12/17/dec-meeting-grunt</id>
     <content type="html"><![CDATA[<p>{% img /images/posters/2013-dec-grunt.jpg 700 Josh Bavari%}</p>
 
@@ -31,7 +31,7 @@
 Oklahoma City, Oklahoma
 73102</p>
 
-<h2>"About "Grunt.js"</h2>
+<h2>About "Grunt.js"</h2>
 
 <p>Had a chance to check out Grunt.js yet?
 It is awesome!

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: visualization | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/visualization/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-12-12T12:37:00-06:00</updated>
+  <updated>2014-01-20T20:31:15+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Meeting: August 21 - Double Javascript]]></title>
     <link href="http://okcjs.com/blog/2012/08/17/meeting-august-21-double-javascript/"/>
-    <updated>2012-08-17T10:18:00-05:00</updated>
+    <updated>2012-08-17T10:18:00+00:00</updated>
     <id>http://okcjs.com/blog/2012/08/17/meeting-august-21-double-javascript</id>
     <content type="html"><![CDATA[<p>{% img /images/posters/2012-August-21-DoubleJavascript-D3-Frisby.jpg 700 Double Javascript D3 + FrisbyJs %}</p>
 
@@ -78,7 +78,7 @@ After you've parked, make your way to the fourth floor of the library and find r
   <entry>
     <title type="html"><![CDATA[Meeting: July 17 - Processing.js]]></title>
     <link href="http://okcjs.com/blog/2012/07/16/meeting-july-17-processing-dot-js/"/>
-    <updated>2012-07-16T11:29:00-05:00</updated>
+    <updated>2012-07-16T11:29:00+00:00</updated>
     <id>http://okcjs.com/blog/2012/07/16/meeting-july-17-processing-dot-js</id>
     <content type="html"><![CDATA[<p>{% img /images/posters/2012-july-17-processingjs.jpeg 700 Processing.js %}</p>
 

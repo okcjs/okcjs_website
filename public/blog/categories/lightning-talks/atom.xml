@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: lightning Talks | OKC.js]]></title>
+  <title><![CDATA[Category: Lightning Talks | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/lightning-talks/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-12-12T12:37:00-06:00</updated>
+  <updated>2014-01-20T20:31:15+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -14,38 +14,39 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Meeting: Aug 20 - Lightning Talks III]]></title>
-    <link href="http://okcjs.com/blog/2013/08/20/aug-meeting-lightning-talks-III/"/>
-    <updated>2013-08-20T11:30:00-05:00</updated>
-    <id>http://okcjs.com/blog/2013/08/20/aug-meeting-lightning-talks-III</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2013-aug-lightning-talks-III.png 700 Javascript Kombat %}</p>
+    <title type="html"><![CDATA[Meeting: Jan 21 - Lightning Talks IV]]></title>
+    <link href="http://okcjs.com/blog/2014/01/21/jan-meeting-lightning/"/>
+    <updated>2014-01-21T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/01/21/jan-meeting-lightning</id>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2014-jan-lightning.png 700 Get it together, Raiden!!!%}</p>
 
 <h2>This Month</h2>
 
-<p>Tuesday: August 20, 2013</p>
+<p>Tuesday: Dec 17, 2013</p>
 
 <p>11:30 am</p>
 
 <p>@The Exchange
 700 1/2 W. Sheridan Ave.,
 Oklahoma City, Oklahoma
-73102</p>
+73101</p>
 
-<h2>"About "Lightning Talks III"</h2>
+<h2>About "Lightning Talks"</h2>
 
-<p>If you've never heard of our lightning talks before, here is how it goes:</p>
+<p>Lightning Talks are a lot of fun. Its an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is javascript, or related to javascript. You can talk about a problem you've solved, a plugin you like, a cool blog post you read, something you're working on now, or pretty much any other way you're using javascript to achieve your goals.</p>
 
-<p>Lightning talks are a lot of fun. Its an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is javascript, or related to javascript. You can talk about a problem you've solved, a plugin you like, a cool blog post you read, something you're working on now, or pretty much any other way you're using javascript to achieve your goals.</p>
+<p>Since these tend to be pretty popular, we've started a 'signup' on the Google + page. By 'signup' I meann "post a comment in the thread". It's basically first come, first serve. Or FIFO. Whatever :)</p>
 
 <!-- more -->
 
 
 <h2>About our Speakers</h2>
 
-<h3>That's you!</h3>
+<h3>Thats You!</h3>
 
-<p>{% img "float-left rounded-corner-all" /images/logos/shang_js.png 200 JavascriptRainbows %}
-This month it is all about you, our Okcjs Members. This meeting will be entirely user driven. Have you been working on something cool you want to share? Have you come across a useful plugin lately? Have you recently solved a hard problem with javascript or related technologies? Now is your chance to present it! There will be an ad hoc signup on the community page. This is pretty informal. If you don't sign up, you can still talk if there's time, and if you do sign up you can change your mind. I'm just putting it there so if anyone really wants to talk they can be guaranteed a spot, is all.</p>
+<p>This month it is all about you, our Okcjs Members. This meeting will be entirely user driven. Have you been working on something cool you want to share? Have you come across a useful plugin lately? Have you recently solved a hard problem with javascript or related technologies? Now is your chance to present it!</p>
+
+<p>This is pretty informal. If you don't sign up, you can still talk if there's time, and if you do sign up you can change your mind. Ithe signup is just so if anyone really wants to talk they can be guaranteed a spot, is all.</p>
 
 <h3>Our Sponsors</h3>
 
@@ -56,55 +57,6 @@ This month it is all about you, our Okcjs Members. This meeting will be entirely
 <p><a href="http://www.exchangeokc.com/">The Exchange</a></p>
 
 <p>The Exchange is located on the second floor of the historic Film Exchange building in downtown Oklahoma City.  This unique loft space is a breath of fresh air for those wanting to step away from traditional event locals and reception areas while still remaining close to all the action of the city.</p>
-
-<p>The Exchange
-700 1/2 West Sheridan Avenue
-Oklahoma City, OK 73102</p>
-
-<p>(405) 601-9200</p>
-
-<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting: April 16 - Lightning Talks]]></title>
-    <link href="http://okcjs.com/blog/2013/04/16/april-meeting-lightning-talks/"/>
-    <updated>2013-04-16T12:44:00-05:00</updated>
-    <id>http://okcjs.com/blog/2013/04/16/april-meeting-lightning-talks</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2013-April-lightning-Talks.jpg 700 CasinoRPG %}</p>
-
-<h2>This Month</h2>
-
-<p>Tuesday: April 16, 2013</p>
-
-<p>11:30 am</p>
-
-<p>@The Exchange
-700 1/2 W. Sheridan Ave.,
-Oklahoma City, Oklahoma
-73102</p>
-
-<h3>OverDrive Your Javascript.</h3>
-
-<h2>"About "Lightning Talks"</h2>
-
-<p>We liked our last lightning talks so much, we want to do it again!  If you've never been involved in one of those before, its pretty simple: Its an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is javascript, or related to javascript. You can talkabout a problem you've solved, a plugin you like, a cool blog post you read, something you're working on now, or pretty much any other way you're using javascript to achieve your goals.</p>
-
-<!-- more -->
-
-
-<h2>About our Speakers</h2>
-
-<h3>A Winner is  You !</h3>
-
-<p>This month it is all about you, our Okcjs Members. This meeting will be entirely user driven. Have you been working on something cool you want to share? Have you come across a useful plugin lately? Have you recently solved a hard problem with javascript or related technologies? Now is your chance to present it!</p>
-
-<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They've made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
-
-<h2>usergroup.location = The Exchange;</h2>
-
-<p><a href="http://www.exchangeokc.com/">The Exchange</a></p>
 
 <p>The Exchange
 700 1/2 West Sheridan Avenue

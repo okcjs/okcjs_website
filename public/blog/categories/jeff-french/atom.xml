@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Jeff French | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/jeff-french/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2013-12-12T12:37:00-06:00</updated>
+  <updated>2014-01-20T20:31:15+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Meeting: Oct 22 - Phonegap]]></title>
     <link href="http://okcjs.com/blog/2013/10/22/oct-meeting-phonegap/"/>
-    <updated>2013-10-22T11:30:00-05:00</updated>
+    <updated>2013-10-22T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2013/10/22/oct-meeting-phonegap</id>
     <content type="html"><![CDATA[<p>{% img /images/posters/2013-0ct-phonegap.png 700 Jeff French %}</p>
 

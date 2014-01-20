@@ -19,7 +19,7 @@ Oklahoma City, Oklahoma
 73102
 
 
-##"About "Grunt.js"
+##About "Grunt.js"
 
 Had a chance to check out Grunt.js yet?
 It is awesome!
