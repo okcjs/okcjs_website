@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Howler.js | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/howler-js/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-01-20T20:37:29+00:00</updated>
+  <updated>2014-01-20T20:39:03+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2013/11/19/not-meeting-howlerjs/"/>
     <updated>2013-11-19T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2013/11/19/not-meeting-howlerjs</id>
-    <content type="html"><![CDATA[<p><img src="/images/posters/2013-nov-howlerjs.jpg" width="700" title="James Simpson" ></p>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2013-nov-howlerjs.jpg 700 James Simpson%}</p>
 
 <h2>This Month</h2>
 

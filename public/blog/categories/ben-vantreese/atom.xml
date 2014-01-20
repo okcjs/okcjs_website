@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ben Vantreese | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/ben-vantreese/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-01-20T20:37:29+00:00</updated>
+  <updated>2014-01-20T20:39:03+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2013/03/26/march-meeting-overdrive-your-javascript/"/>
     <updated>2013-03-26T12:44:00+00:00</updated>
     <id>http://okcjs.com/blog/2013/03/26/march-meeting-overdrive-your-javascript</id>
-    <content type="html"><![CDATA[<p><img src="/images/posters/2013-march-overdriveyourjavascript.jpg" width="700" title="CasinoRPG" ></p>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2013-march-overdriveyourjavascript.jpg 700 CasinoRPG %}</p>
 
 <h2>This Month</h2>
 

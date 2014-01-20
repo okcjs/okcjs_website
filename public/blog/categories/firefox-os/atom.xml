@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Firefox OS | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/firefox-os/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-01-20T20:37:29+00:00</updated>
+  <updated>2014-01-20T20:39:03+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2013/07/23/july-meeting-firefox-os/"/>
     <updated>2013-07-23T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2013/07/23/july-meeting-firefox-os</id>
-    <content type="html"><![CDATA[<p><img src="/images/posters/2013-July-FirefoxOs.png" width="700" title="Firefox OS" ></p>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2013-July-FirefoxOs.png 700 Firefox OS %}</p>
 
 <h2>This Month</h2>
 
