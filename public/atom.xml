@@ -4,7 +4,7 @@
   <title><![CDATA[OKC.js]]></title>
   <link href="http://okcjs.com/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-01-20T20:37:29+00:00</updated>
+  <updated>2014-02-16T06:14:07+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: Feb 18 - Yeoman]]></title>
+    <link href="http://okcjs.com/blog/2014/02/18/feb-yeoman/"/>
+    <updated>2014-02-18T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/02/18/feb-yeoman</id>
+    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2014-feb-yeoman.jpg" width="700" title="Yo,Man." ></p>
+
+<h2>This Month</h2>
+
+<p>Tuesday: Dec 17, 2013</p>
+
+<p>11:30 am</p>
+
+<p>@The Exchange
+700 1/2 W. Sheridan Ave.,
+Oklahoma City, Oklahoma
+73101</p>
+
+<h2>Yo,Man.&#8221;</h2>
+
+<p>With so many great tools available to front-end web developers these days it can sometimes be difficult to understand how they all fit together. Deciding on a workflow that you’re happy with is often a very personal endeavour, but getting started isn’t always easy. Yeoman aims to solve this problem by scaffolding workflows for creating modern webapps, while at the same time mixing in many of the best practices that have evolved within the industry.</p>
+
+<p>Simply put, Yeoman is a scaffolding tool, that will save you time should you adopt it. If you write JavaScript, a lot of good tooling has come along that really encourages a modern workflow. Yeoman is one of these tools. Lets check it out together on Tuesday.</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Jesse Harlin</h3>
+
+<p>I love Javascript. I write it often.</p>
+
+<h3>Our Sponsors</h3>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
+
+<h2>usergroup.location = The Exchange;</h2>
+
+<p><a href="http://www.exchangeokc.com/">The Exchange</a></p>
+
+<p>The Exchange is located on the second floor of the historic Film Exchange building in downtown Oklahoma City.  This unique loft space is a breath of fresh air for those wanting to step away from traditional event locals and reception areas while still remaining close to all the action of the city.</p>
+
+<p>The Exchange
+700 1/2 West Sheridan Avenue
+Oklahoma City, OK 73102</p>
+
+<p>(405) 601-9200</p>
+
+<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting: Jan 21 - Lightning Talks IV]]></title>
@@ -1023,54 +1076,6 @@ meet at <a href="http://www.metrotech.edu/campuses/edc.html">MetroTech Economic 
 <h2>usergroup.location = theDiv</h2>
 
 <p>With the okcCoCo undergoing change, we will be moving our meetup location to <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond this month. The &lt;div&gt; is an organization who is dedicated to supporting a grassroots usergroup movement that builds the state, and helps champion Oklahoma as a web tech hub. The div is located at <em>1712 S. Kelly Ave, in Edmond</em>. We are really excited to be here, and offer our sincere thanks to the div for helping us.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting: May 15 - Knock-Out! Your Browser!]]></title>
-    <link href="http://okcjs.com/blog/2012/05/14/meeting-may-15-knock-out-your-browser/"/>
-    <updated>2012-05-14T09:41:00+00:00</updated>
-    <id>http://okcjs.com/blog/2012/05/14/meeting-may-15-knock-out-your-browser</id>
-    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2012-may-15-knockout.jpg" width="700" title="Knock-Out! Your Browser!" ></p>
-
-<h2>This Month</h2>
-
-<p>Meeting May 15, 2012 from 11:30am - 12:30pm at <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond, OK. Lunch will be provided!</p>
-
-<h3>Knock-Out!! Your Browser</h3>
-
-<p>This month we have a story of true victory. Users expect a modern web application to be a responsive and rich interactive experience. Users will be accessing your site from a variety of mediums, and will be expecting immediate feedback when they are interacting with the page. Don&#8217;t let this send a haymaker to your appliation!</p>
-
-<p>This month we have two presentations lined up to get your browser down to fighting weight. In one corner we have Micah Choquette, who will teach you how to adapt your application to any viewing environment. You can &#8216;Parry and Block&#8217; and &#8216;Slip and Turn&#8217;, as a whole host of viewing resolutions and devices get thrown at your app. In the other corner, we have Michael Sarchet who will teach you how to create a highly interactive experince with knockout.js. Use the power of MVVM to Cross, Hook and Jab your clientside viewmodel. Your pages will float like a butterfly and sting like a bee!</p>
-
-<p>Its time to weigh in. The browser is waiting for your challenge!!</p>
-
-<!-- more -->
-
-
-<h2>About our Speakers</h2>
-
-<h3>Micah Choquette</h3>
-
-<p>A freelance web designer since 2003, Micah was hired on at the Tulsa World in 2010 to help launch their very successful Metered Model. His passion is working with small and micro-businesses and helping them rediscover and communicate their core values to their audience on the web. He believes in doing work that matters.</p>
-
-<p><a href="http://twitter.com/meetmicah">@meetmicah</a> - <a href="http://www.meetmicah.com/">Check Out Micah&#8217;s Website</a></p>
-
-<h3>Michael Sarchet</h3>
-
-<p>Michael has been programming ever since he started learning QBasic at
-the age of 11 on his 486dx. He currently works in C# for his job, and
-enjoys working in Ruby/Rails/etc</p>
-
-<p><a href="http://twitter.com/msarchet">@msarchet</a></p>
-
-<h2>Tasty Lunch!</h2>
-
-<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
-
-<h2>usergroup.location = theDiv</h2>
-
-<p>With the okcCoCo undergoing change, we will be moving our meetup location to <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond this month. The &lt;div&gt; is an organization who is dedicated to supporting a grassroots usergroup movement that builds the state, and helps champion Oklahoma as a web tech hub. The div is located at <em>1712 S. Kelly Ave, in Edmond</em>. We are really excited to be here this month, and offer our sincere thanks to the div for helping us.</p>
 ]]></content>
   </entry>
   
