@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2013/05/21/may-meeting-impactjs/"/>
     <updated>2013-05-21T12:44:00+00:00</updated>
     <id>http://okcjs.com/blog/2013/05/21/may-meeting-impactjs</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2013-may-impactjs.png 700 Impactjs %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2013-may-impactjs.png" width="700" title="Impactjs" ></p>
 
 <h2>This Month</h2>
 
