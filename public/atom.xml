@@ -4,7 +4,7 @@
   <title><![CDATA[OKC.js]]></title>
   <link href="http://okcjs.com/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-02-16T06:18:43+00:00</updated>
+  <updated>2014-03-16T22:02:35+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: Mar 18 - Browserify]]></title>
+    <link href="http://okcjs.com/blog/2014/03/18/mar-browserify/"/>
+    <updated>2014-03-18T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/03/18/mar-browserify</id>
+    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2014-march-browserify.png" width="700"></p>
+
+<h2>This Month</h2>
+
+<p>Tuesday: Feb 18, 2014</p>
+
+<p>11:30 am</p>
+
+<p>@The Exchange
+700 1/2 W. Sheridan Ave.,
+Oklahoma City, Oklahoma
+73101</p>
+
+<h2>&#8220;I put on my Node and Wizard Hat&#8221;</h2>
+
+<p>Browserify is a development tool that allows us to write node.js-style modules that compile for use in the browser. Jordan Rousseau will give us the run down on Browserify for browser-side require() the node.js way.</p>
+
+<!-- more -->
+
+
+<h2>About our Speaker</h2>
+
+<h3>Jordan Rosseau</h3>
+
+<p>Jordan is a recovering ActionScript developer who is passionate about open geo and data visualization platforms. Jordan currently works for Weather Decision Technologies where he leads a team of crazy talented JavaScript/Web developers making the world of weather more accessible using using various frameworks including but not limited to Leaflet, D3, AngularJS and node.js.projects</p>
+
+<h3>Our Sponsors</h3>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
+
+<h2>usergroup.location = The Exchange;</h2>
+
+<p><a href="http://www.exchangeokc.com/">The Exchange</a></p>
+
+<p>The Exchange is located on the second floor of the historic Film Exchange building in downtown Oklahoma City.  This unique loft space is a breath of fresh air for those wanting to step away from traditional event locals and reception areas while still remaining close to all the action of the city.</p>
+
+<p>The Exchange
+700 1/2 West Sheridan Avenue
+Oklahoma City, OK 73102</p>
+
+<p>(405) 601-9200</p>
+
+<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting: Feb 18 - Yeoman]]></title>
@@ -1032,50 +1083,6 @@ meet at <a href="http://www.metrotech.edu/campuses/edc.html">MetroTech Economic 
 <h2>Tasty Lunch!</h2>
 
 <p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting: June 19 - Final Fox: The Future of the Web]]></title>
-    <link href="http://okcjs.com/blog/2012/06/18/meeting-june-19-final-fox-the-future-of-the-web/"/>
-    <updated>2012-06-18T14:52:00+00:00</updated>
-    <id>http://okcjs.com/blog/2012/06/18/meeting-june-19-final-fox-the-future-of-the-web</id>
-    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2012-june-19-mozilla.jpg" title="The Future of the Web" ></p>
-
-<h2>This Month</h2>
-
-<p>Meeting June 19, 2012 from 11:30am - 12:30pm at <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond, OK. Lunch will be provided!</p>
-
-<h3>Final Fox: The Future of the Web</h3>
-
-<p>Its time to enter a whole new realm of Internet challenge and adventure.</p>
-
-<p>It is no secret that Mozilla has been pushing the boundaries of what the internet is capable of, and has been a fundamental force in evolving the web. This month will be a whirlwind tour of a host of exciting topics that encompass the vast and magical things that Mozilla has in store for everone.</p>
-
-<p>Luke is going to cover a variety of things; Web SMS, Web Telephony, Battery API, Web Vibrator, Touch, Camera, The future of gaming, Mouse Lock, Gamepad API, Gladius.js, Mozilla Open Web apps and Identity/Browser Id. Afterwards there will be a Q &amp; A session, led by Luke covering these topics</p>
-
-<p>Gather your gear; internet adventurers, and level up your interwebs.</p>
-
-<!-- more -->
-
-
-<h2>About our Speakers</h2>
-
-<h3>Luke Crouch</h3>
-
-<p>Luke has developed web sites and applications for 10 years, in both corporate and public site environments. He owes all of my best experience to the open-source community and tries to give back; he&#8217;s contributed to open-source web projects including Zend Framework, phing, PEAR, and now Mozilla!</p>
-
-<p>Luke is also very active in the Tulsa Web Devs Community and Tulsa Hackathon Project</p>
-
-<p><a href="http://twitter.com/groovecoder">@groovecoder</a> - <a href="http://http://groovecoder.com/">Check Out Luke&#8217;s Website</a></p>
-
-<h2>Tasty Lunch!</h2>
-
-<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
-
-<h2>usergroup.location = theDiv</h2>
-
-<p>With the okcCoCo undergoing change, we will be moving our meetup location to <a href="http://thediv.org">the &lt;div&gt;</a> in Edmond this month. The &lt;div&gt; is an organization who is dedicated to supporting a grassroots usergroup movement that builds the state, and helps champion Oklahoma as a web tech hub. The div is located at <em>1712 S. Kelly Ave, in Edmond</em>. We are really excited to be here, and offer our sincere thanks to the div for helping us.</p>
 ]]></content>
   </entry>
   
