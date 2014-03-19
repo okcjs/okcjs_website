@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Browserify | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/browserify/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-03-19T03:27:53+00:00</updated>
+  <updated>2014-03-19T03:43:34+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -42,8 +42,14 @@ Oklahoma City, Oklahoma
 
 <h3>Jordan Rousseau</h3>
 
-<p>Jordan is a recovering ActionScript developer who is passionate about open geo and data visualization platforms. Jordan currently works for Weather Decision Technologies where he leads a team of crazy talented JavaScript/Web developers making the world of weather more accessible using using various frameworks including but not limited to Leaflet, D3, AngularJS and node.js.projects
-{% img /images/misc/jordan-gandalf-web.jpg 200 %}</p>
+<p>Jordan is a recovering ActionScript developer who is passionate about open geo and data visualization platforms. Jordan currently works for Weather Decision Technologies where he leads a team of crazy talented JavaScript/Web developers making the world of weather more accessible using using various frameworks including but not limited to Leaflet, D3, AngularJS and node.js.projects</p>
+
+<p>{% img /images/misc/jordan-gandalf-web.jpg 200 %}</p>
+
+<iframe width="100%" height="400" src="http://rousseau.io/browserify-okcjs/#0" frameborder="0" allowfullscreen></iframe>
+
+
+<p><a href="http://rousseau.io/browserify-okcjs/#0">See his slides!</a></p>
 
 <h3>Our Sponsors</h3>
 
