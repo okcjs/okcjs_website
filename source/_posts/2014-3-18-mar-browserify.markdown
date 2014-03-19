@@ -30,9 +30,9 @@ Browserify is a development tool that allows us to write node.js-style modules t
 
 Jordan is a recovering ActionScript developer who is passionate about open geo and data visualization platforms. Jordan currently works for Weather Decision Technologies where he leads a team of crazy talented JavaScript/Web developers making the world of weather more accessible using using various frameworks including but not limited to Leaflet, D3, AngularJS and node.js.projects
 
-{% img /images/misc/jordan-gandalf-web.jpg 200 %}
+{% img /images/misc/jordan-gandalf.jpg  %}
 
-<iframe width="100%" height="400" src="http://rousseau.io/browserify-okcjs/#0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="550" src="http://rousseau.io/browserify-okcjs/#0" frameborder="0" allowfullscreen></iframe>
 [See his slides!](http://rousseau.io/browserify-okcjs/#0)
 
 ### Our Sponsors
