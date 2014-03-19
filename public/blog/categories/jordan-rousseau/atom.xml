@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Firefox OS | OKC.js]]></title>
-  <link href="http://okcjs.com/blog/categories/firefox-os/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Jordan Rousseau | OKC.js]]></title>
+  <link href="http://okcjs.com/blog/categories/jordan-rousseau/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
   <updated>2014-03-19T03:27:53+00:00</updated>
   <id>http://okcjs.com/</id>
@@ -14,43 +14,36 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Meeting: July 23 - Web applications in Firefox OS]]></title>
-    <link href="http://okcjs.com/blog/2013/07/23/july-meeting-firefox-os/"/>
-    <updated>2013-07-23T11:30:00+00:00</updated>
-    <id>http://okcjs.com/blog/2013/07/23/july-meeting-firefox-os</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2013-July-FirefoxOs.png 700 Firefox OS %}</p>
+    <title type="html"><![CDATA[Meeting: Mar 18 - Browserify]]></title>
+    <link href="http://okcjs.com/blog/2014/03/18/mar-browserify/"/>
+    <updated>2014-03-18T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/03/18/mar-browserify</id>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2014-march-browserify.png 700 %}</p>
 
 <h2>This Month</h2>
 
-<p>Tuesday: July 23, 2013</p>
+<p>Tuesday: Feb 18, 2014</p>
 
 <p>11:30 am</p>
 
 <p>@The Exchange
 700 1/2 W. Sheridan Ave.,
 Oklahoma City, Oklahoma
-73102</p>
+73101</p>
 
-<h2>"About "Writing Web Apps for Firefox OS"</h2>
+<h2>"I put on my Node and Wizard Hat"</h2>
 
-<h3>Can I really do this with Javascript?</h3>
-
-<p>Yes.</p>
-
-<p>Firefox OS apps are just Web apps written with HTML, CSS, and JavaScript.</p>
-
-<p>You publish them on the Web like you would publish any other Web site.</p>
-
-<p>Let Yuri Show you how.</p>
+<p>Browserify is a development tool that allows us to write node.js-style modules that compile for use in the browser. Jordan Rousseau will give us the run down on Browserify for browser-side require() the node.js way.</p>
 
 <!-- more -->
 
 
-<h2>About our Speakers</h2>
+<h2>About our Speaker</h2>
 
-<h3>Yury Delendik</h3>
+<h3>Jordan Rousseau</h3>
 
-<p>Yury Delendik’s first open source project was the processing.js. Since then, he is involved with the Mozilla community. He likes to implement various binary formats decoders in JavaScript and other languages. Currently, he works at Mozilla Research on the pdf.js and shumway projects</p>
+<p>Jordan is a recovering ActionScript developer who is passionate about open geo and data visualization platforms. Jordan currently works for Weather Decision Technologies where he leads a team of crazy talented JavaScript/Web developers making the world of weather more accessible using using various frameworks including but not limited to Leaflet, D3, AngularJS and node.js.projects
+{% img /images/misc/jordan-gandalf-web.jpg 200 %}</p>
 
 <h3>Our Sponsors</h3>
 
