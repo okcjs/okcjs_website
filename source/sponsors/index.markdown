@@ -14,8 +14,8 @@ Current & Past Sponsors
 -----------------------
 
 
-{% img /images/sponsors/pluralsight.png PluralSight Devleoper Training %}  
-[Pluralsight Training](http://www.pluralsight-training.net/)
+{% img /images/sponsors/pluralsight.png Pluralsight - Hardcore Developer and IT Training %}  
+[Pluralsight Training](http://pluralsight.com)
 
 {% img /images/sponsors/roberthalf.gif Robert Half %}  
 [Robert Half](http://www.roberthalf.com/)
