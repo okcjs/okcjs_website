@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Kyle Simpson | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/kyle-simpson/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-05-20T03:15:57+00:00</updated>
+  <updated>2014-05-20T22:18:54+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2013/08/20/sept-meeting-new-rules-of-js+copy/"/>
     <updated>2013-08-20T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2013/08/20/sept-meeting-new-rules-of-js copy</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2013-sept-new-rules-of-js.jpg 700 Kyle Simpson %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2013-sept-new-rules-of-js.jpg" width="700" title="Kyle Simpson" ></p>
 
 <h2>This Month</h2>
 

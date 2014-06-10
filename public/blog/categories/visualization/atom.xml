@@ -4,7 +4,7 @@
   <title><![CDATA[Category: visualization | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/visualization/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-05-20T03:15:57+00:00</updated>
+  <updated>2014-05-20T22:18:54+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2012/08/17/meeting-august-21-double-javascript/"/>
     <updated>2012-08-17T10:18:00+00:00</updated>
     <id>http://okcjs.com/blog/2012/08/17/meeting-august-21-double-javascript</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2012-August-21-DoubleJavascript-D3-Frisby.jpg 700 Double Javascript D3 + FrisbyJs %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2012-August-21-DoubleJavascript-D3-Frisby.jpg" width="700" title="Double Javascript D3 + FrisbyJs" ></p>
 
 <h2>This Month</h2>
 
@@ -26,7 +26,7 @@
 
 <h3>Spin Kick your Javascript with Frisby.js and Data-Driven Documents[d3]</h3>
 
-<p>{% img "float-left rounded-corner-all frisby-js" /images/logos/logo-frisby.png 250 "Double Javascript D3 + FrisbyJs" %}The first presentation will be on Frisby.js. Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.  Frisby.js is invented by Vance Lucas</p>
+<p><img class="float-left rounded-corner-all frisby-js" src="/images/logos/logo-frisby.png" width="250" title="&#34;Double Javascript D3 + FrisbyJs&#34;" alt="&#34;Double Javascript D3 + FrisbyJs&#34;">The first presentation will be on Frisby.js. Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.  Frisby.js is invented by Vance Lucas</p>
 
 <p>The second presentation will cover D3. D3 is a avaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3's emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.</p>
 
@@ -53,7 +53,7 @@
 
 <h2>usergroup.location = OKC Metropolitan Library;</h2>
 
-<p>{% img "float-left rounded-corner-all metro-library" /images/logos/metro-cybermars.png 250 "Double Javascript D3 + FrisbyJs" %}</p>
+<p><img class="float-left rounded-corner-all metro-library" src="/images/logos/metro-cybermars.png" width="250" title="&#34;Double Javascript D3 + FrisbyJs&#34;" alt="&#34;Double Javascript D3 + FrisbyJs&#34;"></p>
 
 <p><a href="http://www.mls.lib.ok.us/">Oklahoma City Metropolitan Library</a> [Ronald J. Norick Downtown Library]</p>
 
@@ -80,7 +80,7 @@ After you've parked, make your way to the fourth floor of the library and find r
     <link href="http://okcjs.com/blog/2012/07/16/meeting-july-17-processing-dot-js/"/>
     <updated>2012-07-16T11:29:00+00:00</updated>
     <id>http://okcjs.com/blog/2012/07/16/meeting-july-17-processing-dot-js</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2012-july-17-processingjs.jpeg 700 Processing.js %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2012-july-17-processingjs.jpeg" width="700" title="Processing.js" ></p>
 
 <h2>This Month: Heads Up! Location Change!</h2>
 
