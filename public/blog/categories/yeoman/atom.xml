@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Yeoman | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/yeoman/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-05-20T22:18:54+00:00</updated>
+  <updated>2014-06-11T00:03:57+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2014/02/18/feb-yeoman/"/>
     <updated>2014-02-18T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2014/02/18/feb-yeoman</id>
-    <content type="html"><![CDATA[<p><img src="/images/posters/2014-feb-yeoman.jpg" width="700" title="Yo,Man." ></p>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2014-feb-yeoman.jpg 700 Yo,Man.%}</p>
 
 <h2>This Month</h2>
 

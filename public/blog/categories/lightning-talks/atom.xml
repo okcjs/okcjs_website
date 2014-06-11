@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lightning Talks | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/lightning-talks/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-05-20T22:18:54+00:00</updated>
+  <updated>2014-06-11T00:03:57+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2014/05/20/may-lightningtalks/"/>
     <updated>2014-05-20T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2014/05/20/may-lightningtalks</id>
-    <content type="html"><![CDATA[<p><img src="/images/posters/2014-may-lightning-5.jpg" width="700"></p>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2014-may-lightning-5.jpg 700 %}</p>
 
 <h2>This Month</h2>
 
@@ -81,7 +81,7 @@ Oklahoma City, OK 73102</p>
     <link href="http://okcjs.com/blog/2014/01/21/jan-meeting-lightning/"/>
     <updated>2014-01-21T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2014/01/21/jan-meeting-lightning</id>
-    <content type="html"><![CDATA[<p><img src="/images/posters/2014-jan-lightning.png" width="700" title="Get it together, Raiden!!!" ></p>
+    <content type="html"><![CDATA[<p>{% img /images/posters/2014-jan-lightning.png 700 Get it together, Raiden!!!%}</p>
 
 <h2>This Month</h2>
 
