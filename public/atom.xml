@@ -4,7 +4,7 @@
   <title><![CDATA[OKC.js]]></title>
   <link href="http://okcjs.com/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-05-20T03:14:48+00:00</updated>
+  <updated>2014-06-11T00:00:58+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: June 17 - Taskrunner Showdown]]></title>
+    <link href="http://okcjs.com/blog/2014/06/17/task-runner-showdown/"/>
+    <updated>2014-06-17T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/06/17/task-runner-showdown</id>
+    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2014-june-taskrunner-showdown.png" width="700"></p>
+
+<h2>This Month</h2>
+
+<p>Tuesday: June 17, 2014</p>
+
+<p>11:30 am</p>
+
+<p>@Prototek
+401 NW 10th,
+Oklahoma City, Oklahoma
+73101</p>
+
+<h2>About &#8220;Ultimate Taskrunner Showdown&#8221;</h2>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Josh Bavari</h3>
+
+<p>If you&#8217;re working on any Web or Node.js projects, certainly you know about Grunt.js (the javascript task runner). The question may arise, are there any other JS build tools out there to leverage? And how much can you really do with these systems? Let&#8217;s dive into some JS build systems like Grunt.js and Gulp.js and push them to the limits.</p>
+
+<h3>Our Sponsors</h3>
+
+<p>Meeting space is provided thanks to <a href="http://www.prototekokc.com">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks serve the Oklahoma City tech job market and we thank them for their lunch support since 2012!</p>
+
+<h2>usergroup.location = Prototek;</h2>
+
+<p><a href="http://prototekokc.com/">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
+
+<p><img src="http://okcjs.com/images/sponsors/prototek.png" width="700"></p>
+
+<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
+
+<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Google maps</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting: May 20 - Lightning Talks V]]></title>
@@ -1041,60 +1088,6 @@ Oklahoma City, OK 73102</p>
 Oklahoma City, OK 73102</p>
 
 <p>(405) 601-9200<br/>
-<img src="http://okcjs.com/images/misc/VentureSpur-Parking-Map-June-2012.png" width="700" title="Parking at Venture Spur" ></p>
-
-<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
-
-<p><a href="http://venturespur.com/wp-content/uploads/2012/03/VentureSpur-How-To-Find-Us.pdf">Parking Locations</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting: October 16 - Mootools. Prototype.]]></title>
-    <link href="http://okcjs.com/blog/2012/10/15/october-meeting-mootools-prototype/"/>
-    <updated>2012-10-15T12:44:00+00:00</updated>
-    <id>http://okcjs.com/blog/2012/10/15/october-meeting-mootools-prototype</id>
-    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2012-october-mootools_prototype.png" width="700" title="Michael Sarchet: Mootools. Prototype." ></p>
-
-<h2>This Month</h2>
-
-<p>Meeting October 16, 2012 @The Exchange</p>
-
-<h3>Mootools. Prototype.</h3>
-
-<p>&#8220;I love Javascript. Its so bad !&#8221;</p>
-
-<p><img class="float-left" src="http://okcjs.com/images/misc/its_so_bad.jpg" width="175" title="Javascript makes me feel like this." ></p>
-
-<p>You know why? There is a lot of choices and a lot of variety. There are a lot of tested, mature and useful frameworks and patterns available to a developer. Each one offers insight and techniques to help him/her solve real problems and achieve real goals. Javascript is totally bad. That means &#8220;good bad&#8221;, not, you know&#8230;. bad, bad.</p>
-
-<p>One such framework is Mootools. Mootols (My Object-Oriented Tools) is a compact, modular Object-oriented js framework designed for intermediate to advanced javascript developers. Mootools is battle worn, tried and true. Its been powering sites for as long a jQuery, and has a strong userbase. The framework is extensible and modular, follows dry principles and allows for rich DOM interaction. If you&#8217;ve never taken Mootols for a test drive before, now is a chance to see what it can offer.</p>
-
-<p>The next framework we will cover is Prototype. Prototype is one of the most popular Javascript libraries, and has ben around even longer than jQuery. Prototype is a framework that  &#8220;aims to ease development of dynamic web applications&#8221;.  If you&#8217;ve never used prototype, now is a good time to see what its does. It is currently used on 3.9% of all websites.</p>
-
-<!-- more -->
-
-
-<h2>About our Speakers</h2>
-
-<h3>Michael Sarchet</h3>
-
-<p>Michael has been programming ever since he started learning QBasic at the age of 11 on his 486dx. He currently works in C# for his job, and enjoys working in Ruby/Rails/etc.<br/>
-<a href="http://twitter.com/msarchet">@msarchet</a></p>
-
-<h2>Tasty Lunch!</h2>
-
-<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
-
-<h2>usergroup.location = The Exchange;</h2>
-
-<p><a href="http://www.exchangeokc.com">The Exchange</a></p>
-
-<p>The Exchange
-700 1/2 West Sheridan Avenue
-Oklahoma City, OK 73102</p>
-
-<p>(405) 601-9200
 <img src="http://okcjs.com/images/misc/VentureSpur-Parking-Map-June-2012.png" width="700" title="Parking at Venture Spur" ></p>
 
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>

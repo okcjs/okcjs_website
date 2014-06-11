@@ -1,36 +1,30 @@
-## What is Octopress?
+#OKCjs Website
 
-Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
+##How to Update the Site
+* pull down the latest code from the repo (git fetch origin master, git merge origin master)
+* make sure you are on a new branch after you merge with master: git checkout -b thisMonthsUpdate
+* install virtual box and vagrant (to update the website, it is not necessary to update your machine with Ruby. Everything is already included in the Vagrant file.)
+* provision a virutal machine to edit the octopress site by typing: vagrant up
+* ssh into the virtual box you just created by typing: vagrant ssh
+* you have sucessfully ssh'd into the box if you see a welcome text from vagrant. 
+* you should see the list of files by typing: ls. if you don't see the files, back out of the directory a few steps then cd back into the folder. 
+* Check out the project's structure in your ruby virtual box. You should see all the folders and files. Now, start by typing: ``rake preview``. This iwll handle dependencies and a server will start on port 4000 (localhost:4000). you can stop the preview by typing: ctrl + c in the same command prompt you started running your local server on.
+* Check out the okcjs website on your localhost. Type ``http://localhost:4000/`` in your browser. Looks fancy! So far, so good.
+* At this point, explore the project directory. You should see two folders of note: ``source`` and ``public``. Source is what we will be editing, and public is the generated folder that reads source and basically creates the static okcjs site. 
+* Navigate to the ``source/_posts`` subdirectory. You will see a smattering of .markdown files. There is a way to generate a new markdown file via the octopress command line, but honestly its easier to simply make a copy of one of the existing files and rename it. Go ahead and make the new file, and be careful to follow our file nameing convention [date]-[topic]. This helps keep it organized!
+* After creating and renaming a new .markdown file, open the file in your editor. Make sure to edit the metainformation atop. Especially the date, its very important.
+```markdown
+layout: post 
+title: "Meeting: [date] - [topic]"
+date: 20yy-m-dd 11:30
+comments: true
+categories: [tags go here]
+```
 
-1. **Octopress sports a clean responsive theme** written in semantic HTML5, focused on readability and friendliness toward mobile devices.
-2. **Code blogging is easy and beautiful.** Embed code (with [Solarized](http://ethanschoonover.com/solarized) styling) in your posts from gists, jsFiddle or from your filesystem.
-3. **Third party integration is simple** with built-in support for Twitter, Pinboard, Delicious, GitHub Repositories, Disqus Comments and Google Analytics.
-4. **It's easy to use.** A collection of rake tasks simplifies development and makes deploying a cinch.
-5. **Ships with great plug-ins** some original and others from the Jekyll community &mdash; tested and improved.
-
-
-## Documentation
-
-Check out [Octopress.org](http://octopress.org/docs) for guides and documentation.
-
-
-## Contributing
-
-We love to see people contributing to Octopress, whether it's a bug report, feature suggestion or a pull request. At the moment, we try to keep the core slick and lean, focusing on basic blogging needs, so some of your suggestions might not find their way into Octopress. For those ideas, we started a [list of 3rd party plug-ins](https://github.com/imathis/octopress/wiki/3rd-party-plug-ins), where you can link your own Octopress plug-in repositories. For the future, we're thinking about ways to easier add them them into our main releases.
-
-
-## License
-(The MIT License)
-
-Copyright © 2009-2011 Brandon Mathis
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* Now comes the updating part: Fill out the markdown post, with standard markdown convention. Since you started with an older post, this hsould be very obvous how it needs to be updated.
+* There is probably a poster or some art related to this post  These go in the source/images/posters subdirectory. Muck like the markdown post, make certain to follow the existing naming convention. That really helps.
+* other images go in the logos, sponsors, and misc directories respectively.
+* want to see how its going? The most reliable, albeit slow way is to stop the server, type rake generate and start it back up. You're guaranteed to see all your changes this way. ther is rake watch too, that does the livereload stuff, but ocassionaly it does not work as advertised.
+* Now submit a pull request!
 
 
-#### If you want to be awesome.
-- Proudly display the 'Powered by Octopress' credit in the footer.
-- Add your site to the Wiki so we can watch the community grow.
