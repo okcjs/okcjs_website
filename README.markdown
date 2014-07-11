@@ -8,7 +8,11 @@ git init
 git remote add origin git@github.com:YourAcctName/okcjs_website
 git remote add upstream git@github.com:okcjs/okcjs_website
 ```
-* pull down the latest code from the OKCjs repo ``git fetch upstream master, git merge upstream master``
+* pull down the latest code from the OKCjs repo
+```markdown
+git fetch upstream master
+git merge upstream master
+```
 * make sure you are on a new branch after you merge with master: ``git checkout -b thisMonthsUpdate``
 * install virtual box and vagrant (to update the website. (it is not necessary to update your machine with Ruby as the resource environment is already included in the Vagrant file.)
 * provision a virtual machine to edit the octopress site by typing: ``vagrant up``
