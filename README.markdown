@@ -2,18 +2,18 @@
 
 ##How to Update the Site
 * create a new folder for the okcjs website
-* in your terminal type the following:
+* open your terminal and type:
 ```markdown
 git init
 git remote add origin git@github.com:YourAcctName/okcjs_website
 git remote add upstream git@github.com:okcjs/okcjs_website
 ```
-* pull down the latest code from the OKCjs repo
+* pull down the latest code from the OKCjs repo by typing:
 ```markdown
 git fetch upstream master
 git merge upstream master
 ```
-* make sure you are on a new branch after you merge with master: ``git checkout -b thisMonthsUpdate``
+* make sure you are on a new branch after you merge with master by typing: ``git checkout -b thisMonthsUpdate``
 * install virtual box and vagrant (to update the website. (it is not necessary to update your machine with Ruby as the resource environment is already included in the Vagrant file.)
 * provision a virtual machine to edit the octopress site by typing: ``vagrant up``
 * ssh into the virtual box you just created by typing: ``vagrant ssh``
@@ -35,8 +35,13 @@ categories: [tags go here]
 * Now comes the updating part: Fill out the markdown post, with standard markdown convention. Since you started with an older post, this should be very obvious how it needs to be updated.
 * There is probably a poster or some art related to this post  These go in the source/images/posters subdirectory. Muck like the markdown post, make certain to follow the existing naming convention. That really helps.
 * other images go in the logos, sponsors, and misc directories respectively.
-* want to see how its going? The most reliable, albeit slow way is to stop the server, type rake generate and start it back up. You're guaranteed to see all your changes this way. there is rake watch too, that does the livereload stuff, but occasionally it does not work as advertised.
-* Add, commit and push up the code to your okcjs_website repository by typing ``git add .`` then ``git commit -m "Describe your changes here"`` and finally ``git push origin master``
+* want to see how its going? The most reliable, albeit slow way is to stop the server, type ``rake generate`` and start it back up. You're guaranteed to see all your changes this way. there is ``rake watch`` too that does the livereload stuff, but occasionally it does not work as advertised.
+* Add, commit and push up the code to your okcjs_website repository by typing:
+```markdown
+git add .
+git commit -m "Describe your changes here"`
+git push origin master
+```
 * Now submit a pull request to the OKCjs repository!
 
 ###Thanks for all your hard work!!
