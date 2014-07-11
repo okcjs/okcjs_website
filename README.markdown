@@ -14,12 +14,12 @@ git fetch upstream master
 git merge upstream master
 ```
 * make sure you are on a new branch after you merge with master by typing: ``git checkout -b thisMonthsUpdate``
-* install virtual box and vagrant (to update the website. (it is not necessary to update your machine with Ruby as the resource environment is already included in the Vagrant file.)
+* install virtual box and vagrant to update the website. (it is not necessary to update your machine with Ruby as the resource environment is already included in the Vagrant file.)
 * provision a virtual machine to edit the octopress site by typing: ``vagrant up``
 * ssh into the virtual box you just created by typing: ``vagrant ssh``
 * you have successfully ssh'd into the box if you see a welcome text from vagrant.
 * you should see the list of files by typing: ``ls``. if you don't see the files, back out of the directory a few steps then cd back into the folder.
-* Check out the project's structure in your ruby virtual box. You should see all the folders and files. Now, start by typing: ``rake preview``. This will handle dependencies and a server will start on port 4000 (localhost:4000). you can stop the preview by typing: ctrl + c in the same command prompt you started running your local server on.
+* Check out the project's structure in your ruby virtual box. You should see all the folders and files. Now, start by typing: ``rake preview``. This will handle dependencies and a server will start on port 4000 (localhost:4000). you can stop the preview by typing: ``ctrl + c`` in the same command prompt you started running your local server on.
 * Check out the okcjs website on your localhost. Type ``http://localhost:4000/`` in your browser. Looks fancy! So far, so good.
 * At this point, explore the project directory. You should see two folders of note: ``source`` and ``public``. Source is what we will be editing, and public is the generated folder that reads source and basically creates the static okcjs site.
 * Navigate to the ``source/_posts`` subdirectory. You will see a smattering of .markdown files. There is a way to generate a new markdown file via the octopress command line, but honestly its easier to simply make a copy of one of the existing files and rename it. Go ahead and make the new file, and be careful to follow our file nameing convention [date]-[topic]. This helps keep it organized!
@@ -40,7 +40,7 @@ categories: [tags go here]
 ```markdown
 git add .
 git commit -m "Describe your changes here"`
-git push origin master
+git push origin thisMonthsUpdate
 ```
 * Now submit a pull request to the OKCjs repository!
 
