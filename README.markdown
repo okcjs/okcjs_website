@@ -32,4 +32,5 @@ categories: [tags go here]
 
 ###Thanks for all your hard work!!
 Please contact us if you have any questions!
+
 okcjs: [email](mailto:oklahomacityjavascript@gmail.com) | [twitter](http://twitter.com/okcjs) | [g+](https://plus.google.com/u/0/communities/102906286461208419599) | [meetup](http://www.meetup.com/OKC-js)
