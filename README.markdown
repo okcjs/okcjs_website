@@ -5,11 +5,11 @@
 * in your terminal type the following: ``git init`` next type ``git remote add origin git@github.com:YourAcctName/okcjs_website`` and then ``git remote add upstream git@github.com:okcjs/okcjs_website``
 * pull down the latest code from the OKCjs repo ``git fetch upstream master, git merge upstream master``
 * make sure you are on a new branch after you merge with master: ``git checkout -b thisMonthsUpdate``
-* install virtual box and vagrant (to update the website, it is not necessary to update your machine with Ruby. Everything is already included in the Vagrant file.)
+* install virtual box and vagrant (to update the website. (it is not necessary to update your machine with Ruby as the resource environment is already included in the Vagrant file.)
 * provision a virtual machine to edit the octopress site by typing: ``vagrant up``
 * ssh into the virtual box you just created by typing: ``vagrant ssh``
 * you have successfully ssh'd into the box if you see a welcome text from vagrant.
-* you should see the list of files by typing: ls. if you don't see the files, back out of the directory a few steps then cd back into the folder.
+* you should see the list of files by typing: ``ls``. if you don't see the files, back out of the directory a few steps then cd back into the folder.
 * Check out the project's structure in your ruby virtual box. You should see all the folders and files. Now, start by typing: ``rake preview``. This will handle dependencies and a server will start on port 4000 (localhost:4000). you can stop the preview by typing: ctrl + c in the same command prompt you started running your local server on.
 * Check out the okcjs website on your localhost. Type ``http://localhost:4000/`` in your browser. Looks fancy! So far, so good.
 * At this point, explore the project directory. You should see two folders of note: ``source`` and ``public``. Source is what we will be editing, and public is the generated folder that reads source and basically creates the static okcjs site.
@@ -31,6 +31,6 @@ categories: [tags go here]
 * Now submit a pull request to the OKCjs repository!
 
 ###Thanks for all your hard work!!
-Please contact us if you have any questions!
+Please contact us if you have any questions:
 
 okcjs: [email](mailto:oklahomacityjavascript@gmail.com) | [twitter](http://twitter.com/okcjs) | [g+](https://plus.google.com/u/0/communities/102906286461208419599) | [meetup](http://www.meetup.com/OKC-js)
