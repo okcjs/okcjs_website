@@ -19,7 +19,9 @@ Oklahoma City, Oklahoma
 73101
 
 
-##About "The Event Loop (or how JavaScript works)"Have you ever wondered how Javascript works? Why synchronous calls are bad? What really happens when you use callbacks, call setTimeout, or make an ajax or database call? Is Javascript really single threaded?
+##About "The Event Loop (or how JavaScript works)"
+
+Have you ever wondered how Javascript works? Why synchronous calls are bad? What really happens when you use callbacks, call setTimeout, or make an ajax or database call? Is Javascript really single threaded?
 The answer to all these questions and more can be found at the heart of every browser and Node.js. The Event Loop.
 
 Have you ever wondered how Javascript works? Why synchronous calls are bad? What really happens when you use callbacks, call setTimeout, or make an ajax or database call? Is Javascript really single threaded?
