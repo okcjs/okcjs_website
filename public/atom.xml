@@ -4,7 +4,7 @@
   <title><![CDATA[OKC.js]]></title>
   <link href="http://okcjs.com/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-06-11T00:00:58+00:00</updated>
+  <updated>2014-07-13T21:49:08+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: July 15 - The Event Loop]]></title>
+    <link href="http://okcjs.com/blog/2014/06/17/the-event-loop/"/>
+    <updated>2014-06-17T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/06/17/the-event-loop</id>
+    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2014-july-eventloop.png" width="700"></p>
+
+<h2>This Month</h2>
+
+<p>Tuesday: July 15, 2014</p>
+
+<p>11:30 am</p>
+
+<p>@Prototek
+401 NW 10th,
+Oklahoma City, Oklahoma
+73101</p>
+
+<h2>About &#8220;The Event Loop (or how JavaScript works)&#8221;</h2>
+
+<p>Have you ever wondered how Javascript works? Why synchronous calls are bad? What really happens when you use callbacks, call setTimeout, or make an ajax or database call? Is Javascript really single threaded?
+The answer to all these questions and more can be found at the heart of every browser and Node.js. The Event Loop.</p>
+
+<p>Have you ever wondered how Javascript works? Why synchronous calls are bad? What really happens when you use callbacks, call setTimeout, or make an ajax or database call? Is Javascript really single threaded?
+The answer to all these questions and more can be found at the heart of every browser and Node.js. The Event Loop.</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Karl Kirch</h3>
+
+<p>SWOSU grad who&#8217;s done everything from freelance work, the startup scene, and even some  government contract work. I&#8217;ve done frontend and backend work (and even some mobile) in everything from Java to Javascript (except C++, not a huge fan&#8230;). I don&#8217;t always code, but when I do I like to do it well&#8230; When I&#8217;m not coding I&#8217;m running, playing soccer, brewing beer, or anything that doesn&#8217;t involve a computer.</p>
+
+<h3>Our Sponsors</h3>
+
+<p>Meeting space is provided thanks to <a href="http://www.prototekokc.com">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
+
+<p>These awesome folks serve the Oklahoma City tech job market and we thank them for their support since 2012!</p>
+
+<h2>usergroup.location = Prototek;</h2>
+
+<p><a href="http://prototekokc.com/">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
+
+<p><img src="http://okcjs.com/images/sponsors/prototek.png" width="700"></p>
+
+<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
+
+<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Google maps</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting: June 17 - Taskrunner Showdown]]></title>
@@ -1037,57 +1090,6 @@ Oklahoma City, OK 73102</p>
 Oklahoma City, OK 73102</p>
 
 <p>(405) 601-9200
-<img src="http://okcjs.com/images/misc/VentureSpur-Parking-Map-June-2012.png" width="700" title="Parking at Venture Spur" ></p>
-
-<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
-
-<p><a href="http://venturespur.com/wp-content/uploads/2012/03/VentureSpur-How-To-Find-Us.pdf">Parking Locations</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting: November 27 - Prototype Warriors]]></title>
-    <link href="http://okcjs.com/blog/2012/11/27/november-meeting-prototype-warriors/"/>
-    <updated>2012-11-27T12:44:00+00:00</updated>
-    <id>http://okcjs.com/blog/2012/11/27/november-meeting-prototype-warriors</id>
-    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2012-November-protptype-warriors.png" width="700" title="Prototype Warriors" ></p>
-
-<h2>This Month</h2>
-
-<p>Meeting November 27, 2012 @The Exchange</p>
-
-<h3>Prototype warriors.</h3>
-
-<p>&#8220;Prototype Warriors&#8221;</p>
-
-<p>Prototypal inheritance in JavaScript isn&#8217;t that complicated; it&#8217;s just a little&#8230;confusing. We&#8217;ll look at how JavaScript disguises its prototypes, what&#8217;s going on under the disguise, and even a few ideas on how to embrace prototypes and make them more transparent.</p>
-
-<!-- more -->
-
-
-<h2>About our Speakers</h2>
-
-<h3>Dennis Ferron</h3>
-
-<p>I&#8217;m a graduate of the computer science program from Southwestern Oklahoma State University. I have worked in the software industry writing business software, and also participated in an undergraduate research program in machine learning and artificial intelligence. I did an engineering intership with NASA at the Johnson Space Center in Houston.  I currently work as a .NET developer for Love&#8217;s Country Stores and Travel Stops.</p>
-
-<h3>Jonathan Camenisch</h3>
-
-<p>I help build the web. Or, more specifically, I do full-stack web programming* projects for large and small businesses (and some for fun). I also have experience applying various technologies to business strategy, and I enjoy helping in brainstorming of every kind.</p>
-
-<h2>Tasty Lunch!</h2>
-
-<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
-
-<h2>usergroup.location = The Exchange;</h2>
-
-<p><a href="http://www.exchangeokc.com">The Exchange</a></p>
-
-<p>The Exchange
-700 1/2 West Sheridan Avenue
-Oklahoma City, OK 73102</p>
-
-<p>(405) 601-9200<br/>
 <img src="http://okcjs.com/images/misc/VentureSpur-Parking-Map-June-2012.png" width="700" title="Parking at Venture Spur" ></p>
 
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
