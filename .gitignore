@@ -10,27 +10,3 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
-
-
-# OS-specific
-.DS_Store
-
-# Vagrant stuff
-acceptance_config.yml
-boxes/*
-/Vagrantfile
-/.vagrant
-/website/docs/.vagrant
-/website/www/.vagrant
-/vagrant-spec.config.rb
-
-.vagrant/machines/web/virtualbox/action_provision
-.vagrant/machines/web/virtualbox/action_set_name
-.vagrant/machines/web/virtualbox/id
-.vagrant/machines/web/virtualbox/index_uuid
-.vagrant/machines/web/virtualbox/synced_folders
-
-/VirtualBoxService/StyleCop.Cache
-/TestResults/*
-/VirtualBoxService.suo
-/VirtualBoxService/VirtualBoxService.csproj.user
