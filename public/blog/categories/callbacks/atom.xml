@@ -4,7 +4,7 @@
   <title><![CDATA[Category: callbacks | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/callbacks/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-08-13T03:29:01+00:00</updated>
+  <updated>2014-08-13T03:45:13+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Meeting: July 15 - The Event Loop]]></title>
-    <link href="http://okcjs.com/blog/2014/06/17/the-event-loop/"/>
-    <updated>2014-06-17T11:30:00+00:00</updated>
-    <id>http://okcjs.com/blog/2014/06/17/the-event-loop</id>
+    <link href="http://okcjs.com/blog/2014/07/15/the-event-loop/"/>
+    <updated>2014-07-15T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/07/15/the-event-loop</id>
     <content type="html"><![CDATA[<p><img src="/images/posters/2014-july-eventloop.png" width="700"></p>
 
 <h2>This Month</h2>

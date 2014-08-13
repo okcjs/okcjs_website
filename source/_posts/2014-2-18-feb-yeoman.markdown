@@ -3,7 +3,7 @@ layout: post
 title: "Meeting: Feb 18 - Yeoman"
 date: 2014-2-18 11:30
 comments: true
-categories: [Yeoman]
+categories: [Yeoman, Jesse Harlin]
 
 ---
 {% img /images/posters/2014-feb-yeoman.jpg 700 Yo,Man.%}
@@ -20,7 +20,7 @@ Oklahoma City, Oklahoma
 
 
 ##Yo, Man."
-With so many great tools available to front-end web developers these days it can sometimes be difficult to understand how they all fit together. Deciding on a workflow that you’re happy with is often a very personal endeavour, but getting started isn’t always easy. Yeoman aims to solve this problem by scaffolding workflows for creating modern webapps, while at the same time mixing in many of the best practices that have evolved within the industry.
+With so many great tools available to front-end web developers these days it can sometimes be difficult to understand how they all fit together. Deciding on a workflow that youï¿½re happy with is often a very personal endeavour, but getting started isnï¿½t always easy. Yeoman aims to solve this problem by scaffolding workflows for creating modern webapps, while at the same time mixing in many of the best practices that have evolved within the industry.
 
 Simply put, Yeoman is a scaffolding tool, that will save you time should you adopt it. If you write JavaScript, a lot of good tooling has come along that really encourages a modern workflow. Yeoman is one of these tools. Lets check it out together on Tuesday.
 

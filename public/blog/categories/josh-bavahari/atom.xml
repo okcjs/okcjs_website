@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Josh Bavahari | OKC.js]]></title>
+  <link href="http://okcjs.com/blog/categories/josh-bavahari/atom.xml" rel="self"/>
+  <link href="http://okcjs.com/"/>
+  <updated>2014-08-13T03:45:13+00:00</updated>
+  <id>http://okcjs.com/</id>
+  <author>
+    <name><![CDATA[Brightbit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting: June 17 - Taskrunner Showdown]]></title>
+    <link href="http://okcjs.com/blog/2014/06/17/task-runner-showdown/"/>
+    <updated>2014-06-17T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/06/17/task-runner-showdown</id>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2014-june-taskrunner-showdown.png" width="700"></p>
+
+<h2>This Month</h2>
+
+<p>Tuesday: June 17, 2014</p>
+
+<p>11:30 am</p>
+
+<p>@Prototek
+401 NW 10th,
+Oklahoma City, Oklahoma
+73101</p>
+
+<h2>About "Ultimate Taskrunner Showdown"</h2>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h3>Josh Bavari</h3>
+
+<p>If you're working on any Web or Node.js projects, certainly you know about Grunt.js (the javascript task runner). The question may arise, are there any other JS build tools out there to leverage? And how much can you really do with these systems? Let's dive into some JS build systems like Grunt.js and Gulp.js and push them to the limits.</p>
+
+<h3>Our Sponsors</h3>
+
+<p>Meeting space is provided thanks to <a href="http://www.prototekokc.com">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
+
+<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks serve the Oklahoma City tech job market and we thank them for their lunch support since 2012!</p>
+
+<h2>usergroup.location = Prototek;</h2>
+
+<p><a href="http://prototekokc.com/">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
+
+<p><img src="/images/sponsors/prototek.png" width="700"></p>
+
+<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
+
+<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Google maps</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

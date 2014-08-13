@@ -3,7 +3,7 @@ layout: post
 title: "Meeting: June 17 - Taskrunner Showdown"
 date: 2014-6-17 11:30
 comments: true
-categories: [Gulp, Grunt, Brunch Brocolli]
+categories: [Gulp, Grunt, Brunch Brocolli, Josh Bavahari]
 
 ---
 {% img /images/posters/2014-june-taskrunner-showdown.png 700 %}

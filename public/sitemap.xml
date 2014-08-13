@@ -68,15 +68,15 @@
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/05/21/may-meeting-impactjs/</loc>
-        <lastmod>2014-02-16T05:53:33+00:00</lastmod>
+        <lastmod>2014-08-13T03:44:25+00:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/06/18/june-meeting-emberjs/</loc>
-        <lastmod>2014-02-16T05:53:33+00:00</lastmod>
+        <lastmod>2014-08-13T03:44:10+00:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/07/23/july-meeting-firefox-os/</loc>
-        <lastmod>2014-02-16T05:53:33+00:00</lastmod>
+        <lastmod>2014-08-13T03:43:44+00:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/08/20/aug-meeting-lightning-talks-III/</loc>
@@ -84,7 +84,7 @@
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/09/17/sept-meeting-new-rules-of-js+copy/</loc>
-        <lastmod>2014-08-13T03:27:34+00:00</lastmod>
+        <lastmod>2014-08-13T03:43:28+00:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2013/10/22/oct-meeting-phonegap/</loc>
@@ -104,7 +104,7 @@
     </url>
     <url>
         <loc>http://okcjs.com/blog/2014/02/18/feb-yeoman/</loc>
-        <lastmod>2014-02-16T06:17:06+00:00</lastmod>
+        <lastmod>2014-08-13T03:42:56+00:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2014/03/18/mar-browserify/</loc>
@@ -116,19 +116,23 @@
     </url>
     <url>
         <loc>http://okcjs.com/blog/2014/05/20/may-lightningtalks/</loc>
-        <lastmod>2014-05-20T03:14:39+00:00</lastmod>
+        <lastmod>2014-08-13T03:42:34+00:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/2014/06/17/task-runner-showdown/</loc>
-        <lastmod>2014-06-11T00:07:04+00:00</lastmod>
+        <lastmod>2014-08-13T03:42:06+00:00</lastmod>
     </url>
     <url>
-        <loc>http://okcjs.com/blog/2014/06/17/the-event-loop/</loc>
-        <lastmod>2014-07-13T21:55:31+00:00</lastmod>
+        <loc>http://okcjs.com/blog/2014/07/15/the-event-loop/</loc>
+        <lastmod>2014-08-13T03:41:58+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://okcjs.com/blog/2014/08/19/lightning-talks-6/</loc>
+        <lastmod>2014-08-13T03:41:48+00:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/blog/archives/</loc>
-        <lastmod>2014-08-13T03:27:34+00:00</lastmod>
+        <lastmod>2014-08-13T03:44:25+00:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/community/</loc>
@@ -136,7 +140,7 @@
     </url>
     <url>
         <loc>http://okcjs.com/</loc>
-        <lastmod>2014-08-13T03:27:34+00:00</lastmod>
+        <lastmod>2014-08-13T03:44:25+00:00</lastmod>
     </url>
     <url>
         <loc>http://okcjs.com/sign-up/</loc>
