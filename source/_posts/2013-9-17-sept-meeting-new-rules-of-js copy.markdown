@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Meeting: Sept 17 - New Rules of Javascript"
-date: 2013-8-20 11:30
+date: 2013-9-17 11:30
 comments: true
-categories: [Kyle Simpson]
+categories: [Javascript, Kyle Simpson]
 
 ---
 {% img /images/posters/2013-sept-new-rules-of-js.jpg 700 Kyle Simpson %}

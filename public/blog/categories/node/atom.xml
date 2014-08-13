@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Node | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/node/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-07-13T21:50:25+00:00</updated>
+  <updated>2014-08-13T03:45:13+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2014/04/15/apr-node/"/>
     <updated>2014-04-15T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2014/04/15/apr-node</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2014-april-featherweight.png 700 %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2014-april-featherweight.png" width="700"></p>
 
 <h2>This Month</h2>
 

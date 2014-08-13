@@ -3,7 +3,7 @@ layout: post
 title: "Meeting: July 23 - Web applications in Firefox OS"
 date: 2013-7-23 11:30
 comments: true
-categories: [Firefox OS]
+categories: [Firefox OS, Yury Delendik]
 
 ---
 {% img /images/posters/2013-July-FirefoxOs.png 700 Firefox OS %}

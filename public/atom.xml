@@ -4,7 +4,7 @@
   <title><![CDATA[OKC.js]]></title>
   <link href="http://okcjs.com/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-07-13T21:49:08+00:00</updated>
+  <updated>2014-08-13T03:45:13+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -14,10 +14,72 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Meeting: August 19 - Lightning Talks 6]]></title>
+    <link href="http://okcjs.com/blog/2014/08/19/lightning-talks-6/"/>
+    <updated>2014-08-19T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/08/19/lightning-talks-6</id>
+    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2014-august-lightning-6.png" width="700"></p>
+
+<h2>This Month</h2>
+
+<p>Tuesday: August 19, 2014</p>
+
+<p>11:30 am</p>
+
+<p>@Prototek
+401 NW 10th,
+Oklahoma City, Oklahoma
+73101</p>
+
+<h2>About &#8220;Lightning Talks: 6&#8221;</h2>
+
+<p>This is our 6th Installment of Community Lightning Talks. Never heard of a lightning talk? Here is what&#8217;s up:</p>
+
+<p>Lightning Talks are really fun. They an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is javascript, or related to javascript. You can talk about a problem you&#8217;ve solved, a plugin you like, a cool blog post you read, something youâ€™re working on now, or pretty much any other way youâ€™re using JavaScript to achieve your goals.</p>
+
+<p>We run a signup on the Google G+ community for OKC.js.  Generally? Be sure and sign up early; they fill up quickly</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h4>Here is this month&#8217;s lineup!</h4>
+
+<hr />
+
+<ul>
+<li><h6>Hapi.js [Devin Clark]</h6></li>
+<li><h6>Hubot Scripts [Rick Yoesting]</h6></li>
+<li><h6>Mental Health in Tech [Caleb Creed]</h6></li>
+<li><h6>PDFs in JS [Phillip Sipe]</h6></li>
+<li><h6>Making lots of HTTP requests with Node [Karl Kirch]</h6></li>
+</ul>
+
+
+<h3>Our Sponsors</h3>
+
+<p>Meeting space is provided thanks to <a href="http://www.prototekokc.com">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
+
+<p>These awesome folks serve the Oklahoma City tech job market and we thank them for their support since 2012!</p>
+
+<h2>usergroup.location = Prototek;</h2>
+
+<p><a href="http://prototekokc.com/">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
+
+<p><img src="http://okcjs.com/images/sponsors/prototek.png" width="700"></p>
+
+<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
+
+<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Google maps</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Meeting: July 15 - The Event Loop]]></title>
-    <link href="http://okcjs.com/blog/2014/06/17/the-event-loop/"/>
-    <updated>2014-06-17T11:30:00+00:00</updated>
-    <id>http://okcjs.com/blog/2014/06/17/the-event-loop</id>
+    <link href="http://okcjs.com/blog/2014/07/15/the-event-loop/"/>
+    <updated>2014-07-15T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/07/15/the-event-loop</id>
     <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2014-july-eventloop.png" width="700"></p>
 
 <h2>This Month</h2>
@@ -305,7 +367,7 @@ Oklahoma City, Oklahoma
 
 <h2>Yo, Man.&#8221;</h2>
 
-<p>With so many great tools available to front-end web developers these days it can sometimes be difficult to understand how they all fit together. Deciding on a workflow that you’re happy with is often a very personal endeavour, but getting started isn’t always easy. Yeoman aims to solve this problem by scaffolding workflows for creating modern webapps, while at the same time mixing in many of the best practices that have evolved within the industry.</p>
+<p>With so many great tools available to front-end web developers these days it can sometimes be difficult to understand how they all fit together. Deciding on a workflow that youï¿½re happy with is often a very personal endeavour, but getting started isnï¿½t always easy. Yeoman aims to solve this problem by scaffolding workflows for creating modern webapps, while at the same time mixing in many of the best practices that have evolved within the industry.</p>
 
 <p>Simply put, Yeoman is a scaffolding tool, that will save you time should you adopt it. If you write JavaScript, a lot of good tooling has come along that really encourages a modern workflow. Yeoman is one of these tools. Lets check it out together on Tuesday.</p>
 
@@ -555,9 +617,9 @@ Oklahoma City, OK 73102</p>
   
   <entry>
     <title type="html"><![CDATA[Meeting: Sept 17 - New Rules of Javascript]]></title>
-    <link href="http://okcjs.com/blog/2013/08/20/sept-meeting-new-rules-of-js+copy/"/>
-    <updated>2013-08-20T11:30:00+00:00</updated>
-    <id>http://okcjs.com/blog/2013/08/20/sept-meeting-new-rules-of-js copy</id>
+    <link href="http://okcjs.com/blog/2013/09/17/sept-meeting-new-rules-of-js+copy/"/>
+    <updated>2013-09-17T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2013/09/17/sept-meeting-new-rules-of-js copy</id>
     <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2013-sept-new-rules-of-js.jpg" width="700" title="Kyle Simpson" ></p>
 
 <h2>This Month</h2>
@@ -1044,57 +1106,6 @@ Oklahoma City, OK 73102</p>
 <p>(405) 601-9200</p>
 
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting: December 18 - Javascript Lightning]]></title>
-    <link href="http://okcjs.com/blog/2012/12/18/december-meeting-javascript-lightening/"/>
-    <updated>2012-12-18T12:44:00+00:00</updated>
-    <id>http://okcjs.com/blog/2012/12/18/december-meeting-javascript-lightening</id>
-    <content type="html"><![CDATA[<p><img src="http://okcjs.com/images/posters/2012-december-javascript-lightning.jpg" width="700" title="Javascript-Lightning" ></p>
-
-<h2>This Month</h2>
-
-<p>Meeting December 18, 2012 @The Exchange</p>
-
-<h3>Javascript Lightning.</h3>
-
-<p>&#8220;Javascript Lightning&#8221;</p>
-
-<p>Can you believe it? This month concludes our first full year as a usergroup!</p>
-
-<p>We though it would be a great idea to have a user driven meeting for this month. For the first part, the majority of the meeting, we will be doing lightning talks from community members. If you&#8217;ve never been involved in one of those before, its pretty simple: Its an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is javascript, or related to javascript. You can talk about a problem you&#8217;ve solved, a plugin you like, a cool blog post you read, something you&#8217;re working on now, or pretty much any other way you&#8217;re using javascript to achieve your goals</p>
-
-<p>For the second part, we will have a sort of townhall related to okcjs. This is a chance for us to discuss stuff related to the future of our group, such as topics you think will be important for upcoming months or anything else.</p>
-
-<p>This is your chance to share and be heard!</p>
-
-<!-- more -->
-
-
-<h2>About our Speakers</h2>
-
-<h3>Multiple Javascript Ninjas</h3>
-
-<p>This month it is all about you, our Okcjs Members. This meeting will be entirely user driven. Have you been working on something cool you want to share? Have you come across a useful plugin lately? Have you recently solved a hard problem with javascript or related technologies? Now is your chance to present it!</p>
-
-<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They&#8217;ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
-
-<h2>usergroup.location = The Exchange;</h2>
-
-<p><a href="http://www.exchangeokc.com">The Exchange</a></p>
-
-<p>The Exchange
-700 1/2 West Sheridan Avenue
-Oklahoma City, OK 73102</p>
-
-<p>(405) 601-9200
-<img src="http://okcjs.com/images/misc/VentureSpur-Parking-Map-June-2012.png" width="700" title="Parking at Venture Spur" ></p>
-
-<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17">Google maps link</a></p>
-
-<p><a href="http://venturespur.com/wp-content/uploads/2012/03/VentureSpur-How-To-Find-Us.pdf">Parking Locations</a></p>
 ]]></content>
   </entry>
   

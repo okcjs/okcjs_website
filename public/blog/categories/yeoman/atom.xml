@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Yeoman | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/yeoman/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-07-13T21:50:25+00:00</updated>
+  <updated>2014-08-13T03:45:13+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2014/02/18/feb-yeoman/"/>
     <updated>2014-02-18T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2014/02/18/feb-yeoman</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2014-feb-yeoman.jpg 700 Yo,Man.%}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2014-feb-yeoman.jpg" width="700" title="Yo,Man." ></p>
 
 <h2>This Month</h2>
 
@@ -33,7 +33,7 @@ Oklahoma City, Oklahoma
 
 <h2>Yo, Man."</h2>
 
-<p>With so many great tools available to front-end web developers these days it can sometimes be difficult to understand how they all fit together. Deciding on a workflow that you’re happy with is often a very personal endeavour, but getting started isn’t always easy. Yeoman aims to solve this problem by scaffolding workflows for creating modern webapps, while at the same time mixing in many of the best practices that have evolved within the industry.</p>
+<p>With so many great tools available to front-end web developers these days it can sometimes be difficult to understand how they all fit together. Deciding on a workflow that youï¿½re happy with is often a very personal endeavour, but getting started isnï¿½t always easy. Yeoman aims to solve this problem by scaffolding workflows for creating modern webapps, while at the same time mixing in many of the best practices that have evolved within the industry.</p>
 
 <p>Simply put, Yeoman is a scaffolding tool, that will save you time should you adopt it. If you write JavaScript, a lot of good tooling has come along that really encourages a modern workflow. Yeoman is one of these tools. Lets check it out together on Tuesday.</p>
 

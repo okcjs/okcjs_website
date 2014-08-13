@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Grunt | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/grunt/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-07-13T21:50:25+00:00</updated>
+  <updated>2014-08-13T03:45:13+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2014/06/17/task-runner-showdown/"/>
     <updated>2014-06-17T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2014/06/17/task-runner-showdown</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2014-june-taskrunner-showdown.png 700 %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2014-june-taskrunner-showdown.png" width="700"></p>
 
 <h2>This Month</h2>
 
@@ -52,7 +52,7 @@ Oklahoma City, Oklahoma
 
 <p><a href="http://prototekokc.com/">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 
-<p>{% img /images/sponsors/prototek.png 700 %}</p>
+<p><img src="/images/sponsors/prototek.png" width="700"></p>
 
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
 

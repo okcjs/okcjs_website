@@ -3,7 +3,7 @@ layout: post
 title: "Meeting: May 21 - IMPACTjs"
 date: 2013-5-21 12:44
 comments: true
-categories: [Impact.js html5 games]
+categories: [Impact.js, html5, games, Jesse Harlin]
 
 ---
 {% img /images/posters/2013-may-impactjs.png 700 Impactjs %}

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lightning Talks | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/lightning-talks/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-07-13T21:50:25+00:00</updated>
+  <updated>2014-08-13T03:45:13+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -14,11 +14,73 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Meeting: August 19 - Lightning Talks 6]]></title>
+    <link href="http://okcjs.com/blog/2014/08/19/lightning-talks-6/"/>
+    <updated>2014-08-19T11:30:00+00:00</updated>
+    <id>http://okcjs.com/blog/2014/08/19/lightning-talks-6</id>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2014-august-lightning-6.png" width="700"></p>
+
+<h2>This Month</h2>
+
+<p>Tuesday: August 19, 2014</p>
+
+<p>11:30 am</p>
+
+<p>@Prototek
+401 NW 10th,
+Oklahoma City, Oklahoma
+73101</p>
+
+<h2>About "Lightning Talks: 6"</h2>
+
+<p>This is our 6th Installment of Community Lightning Talks. Never heard of a lightning talk? Here is what's up:</p>
+
+<p>Lightning Talks are really fun. They an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is javascript, or related to javascript. You can talk about a problem you've solved, a plugin you like, a cool blog post you read, something you’re working on now, or pretty much any other way you’re using JavaScript to achieve your goals.</p>
+
+<p>We run a signup on the Google G+ community for OKC.js.  Generally? Be sure and sign up early; they fill up quickly</p>
+
+<!-- more -->
+
+
+<h2>About our Speakers</h2>
+
+<h4>Here is this month's lineup!</h4>
+
+<hr />
+
+<ul>
+<li><h6>Hapi.js [Devin Clark]</h6></li>
+<li><h6>Hubot Scripts [Rick Yoesting]</h6></li>
+<li><h6>Mental Health in Tech [Caleb Creed]</h6></li>
+<li><h6>PDFs in JS [Phillip Sipe]</h6></li>
+<li><h6>Making lots of HTTP requests with Node [Karl Kirch]</h6></li>
+</ul>
+
+
+<h3>Our Sponsors</h3>
+
+<p>Meeting space is provided thanks to <a href="http://www.prototekokc.com">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
+
+<p>These awesome folks serve the Oklahoma City tech job market and we thank them for their support since 2012!</p>
+
+<h2>usergroup.location = Prototek;</h2>
+
+<p><a href="http://prototekokc.com/">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
+
+<p><img src="/images/sponsors/prototek.png" width="700"></p>
+
+<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
+
+<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Google maps</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Meeting: May 20 - Lightning Talks V]]></title>
     <link href="http://okcjs.com/blog/2014/05/20/may-lightningtalks/"/>
     <updated>2014-05-20T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2014/05/20/may-lightningtalks</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2014-may-lightning-5.jpg 700 %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2014-may-lightning-5.jpg" width="700"></p>
 
 <h2>This Month</h2>
 
@@ -81,7 +143,7 @@ Oklahoma City, OK 73102</p>
     <link href="http://okcjs.com/blog/2014/01/21/jan-meeting-lightning/"/>
     <updated>2014-01-21T11:30:00+00:00</updated>
     <id>http://okcjs.com/blog/2014/01/21/jan-meeting-lightning</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2014-jan-lightning.png 700 Get it together, Raiden!!!%}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2014-jan-lightning.png" width="700" title="Get it together, Raiden!!!" ></p>
 
 <h2>This Month</h2>
 

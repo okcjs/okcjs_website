@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Meeting: July 15 - The Event Loop"
-date: 2014-6-17 11:30
+date: 2014-7-15 11:30
 comments: true
-categories: [Event Loop, callbacks, threaded]
+categories: [Event Loop, callbacks, threaded, Karl Kirch]
 
 ---
 {% img /images/posters/2014-july-eventloop.png 700 %}

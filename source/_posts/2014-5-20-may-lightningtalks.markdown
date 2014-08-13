@@ -3,7 +3,7 @@ layout: post
 title: "Meeting: May 20 - Lightning Talks V"
 date: 2014-5-20 11:30
 comments: true
-categories: [Lightning Talks]
+categories: [Lightning Talks, Karl Kirch, Rick Yoesting, Shane King, Rob Sullivan]
 
 ---
 {% img /images/posters/2014-may-lightning-5.jpg 700 %}
