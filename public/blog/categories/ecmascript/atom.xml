@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecmascript | OKC.js]]></title>
   <link href="http://okcjs.com/blog/categories/ecmascript/atom.xml" rel="self"/>
   <link href="http://okcjs.com/"/>
-  <updated>2014-07-13T21:50:25+00:00</updated>
+  <updated>2014-08-13T03:29:01+00:00</updated>
   <id>http://okcjs.com/</id>
   <author>
     <name><![CDATA[Brightbit]]></name>
@@ -18,7 +18,7 @@
     <link href="http://okcjs.com/blog/2013/01/22/january-meeting-ecmafox/"/>
     <updated>2013-01-22T12:44:00+00:00</updated>
     <id>http://okcjs.com/blog/2013/01/22/january-meeting-ecmafox</id>
-    <content type="html"><![CDATA[<p>{% img /images/posters/2013-january-22-ecmafox.jpg 700 Ecmafox %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/posters/2013-january-22-ecmafox.jpg" width="700" title="Ecmafox" ></p>
 
 <h2>This Month</h2>
 
